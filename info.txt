@@ -1,0 +1,28 @@
+For Summit county
+https://clerkweb.summitoh.net/PublicSite/SelectDivisionCivil.aspx
+first page should be this!
+
+than just forward to this link!
+https://clerkweb.summitoh.net/PublicSite/SearchByMixed.aspx
+
+
+after getting here we click here
+/html/body/table[2]/tbody/tr[1]/td/form/table[2]/tbody/tr/td/table/tbody/tr[3]/td[2]/input
+for entering date as 
+mm/dd/yyyy
+
+than after this
+
+we click here
+/html/body/table[2]/tbody/tr[1]/td/form/table[2]/tbody/tr/td/table/tbody/tr[7]/td[2]/select
+this will open drop down menu and from that menu we will select 
+Foreclosure
+for this we can do this by 
+pressing button f than pressing enter it will directly select this option other wise you can select from menu directly too!
+
+than we click this button 
+/html/body/table[2]/tbody/tr[1]/td/form/table[3]/tbody/tr/td/input[1]
+after clicking this button of search we will get results and we need to dump that html!
+
+this is the one results fetcher bot I want you to make as first step in python!
+https://clerkweb.summitoh.net/PublicSite/CaseDetail.aspx?CaseNo=CV-2025-08-3686&Suffix=&Type=
