@@ -1,0 +1,979 @@
+{
+  "basic_info": {
+    "case_caption": "TOWD POINT MORTGAGE TRUST 2017-3, U.S. B VS STEVEN NICHOLAS WASZIL",
+    "case_number": "CV-2024-08-3426",
+    "file_date": "08/08/2024",
+    "case_type": "FORECLOSURE",
+    "judge": "KELLY MCLAUGHLIN"
+  },
+  "parties": {
+    "plaintiffs": [
+      {
+        "name": "TOWD POINT MORTGAGE TRUST 2017-3, U.S. B",
+        "address": "3217 S. Decker Lake Drive\n\nSalt Lake City, UT 84119",
+        "attorney_name": "",
+        "attorney_address": "",
+        "party_type": "plaintiff"
+      }
+    ],
+    "defendants": [
+      {
+        "name": "WASZIL, STEVEN",
+        "address": "2152 Glenmount Ave\n\nAKRON, OH 44319",
+        "attorney_name": "",
+        "attorney_address": "",
+        "party_type": "defendant"
+      },
+      {
+        "name": "WASZIL, UNKNOWN SPOUSE OF STEVEN",
+        "address": "2152 Glenmount Avenue\n\nAKRON, OH 44319",
+        "attorney_name": "",
+        "attorney_address": "",
+        "party_type": "defendant"
+      },
+      {
+        "name": "MV REALTY OF OHIO, LLC",
+        "address": "CT Corporation System\n4400 Easton Commons Way, Suite 125\nCOLUMBUS, OH 43219",
+        "attorney_name": "",
+        "attorney_address": "",
+        "party_type": "defendant"
+      }
+    ]
+  },
+  "docket_entries": [
+    {
+      "date": "06/26/2025",
+      "filed_by": "TOWD POINT MORTGAGE TRUST 2017-3, U.S. B",
+      "description": "ORDER DENYING MOTION TO RECONSIDER.   KLM",
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000042        0000367D",
+      "document_text": "View Document",
+      "has_document": true,
+      "document_id": "vola000000420000367D",
+      "raw_document_id": "vola00000042        0000367D"
+    },
+    {
+      "date": "06/18/2025",
+      "filed_by": "WILLIAMS, MARIA",
+      "description": "NOTICE OF APPEARANCE OF ATTORNEY MARIA T. WILLIAMS FOR PLAINTIFF, TOWD POINT MORTGAGE TRUST 2017-3, U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE",
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000041        0000267E",
+      "document_text": "View Document",
+      "has_document": true,
+      "document_id": "vola000000410000267E",
+      "raw_document_id": "vola00000041        0000267E"
+    },
+    {
+      "date": "06/18/2025",
+      "filed_by": "WILLIAMS, MARIA",
+      "description": "MOTION TO RECONSIDER",
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000041        0000267F",
+      "document_text": "View Document",
+      "has_document": true,
+      "document_id": "vola000000410000267F",
+      "raw_document_id": "vola00000041        0000267F"
+    },
+    {
+      "date": "05/21/2025",
+      "filed_by": "TOWD POINT MORTGAGE TRUST 2017-3, U.S. B",
+      "description": "THE PLAINTIFF HAVING FAILED TO FILE A MOTION FOR DEFAULT JUDGMENT IN RESPONSE TO THE COURT'S PREVIOUS ORDER, THIS CASE IS HEREBY DISMISSED, WITHOUT PREJUDICE, FOR LACK OF PROSECUTION. COSTS TO PLAINTIFF. KLM",
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000038        00000950",
+      "document_text": "View Document",
+      "has_document": true,
+      "document_id": "vola0000003800000950",
+      "raw_document_id": "vola00000038        00000950"
+    },
+    {
+      "date": "05/21/2025",
+      "filed_by": "TOWD POINT MORTGAGE TRUST 2017-3, U.S. B",
+      "description": "Regular Mail Service - Mailed YANFANG MARILYN RAMIREZ",
+      "document_link": "",
+      "document_text": "No Image",
+      "has_document": false,
+      "document_id": "",
+      "raw_document_id": ""
+    },
+    {
+      "date": "05/21/2025",
+      "filed_by": "TOWD POINT MORTGAGE TRUST 2017-3, U.S. B",
+      "description": "Regular Mail Service - Mailed UNKNOWN SPOUSE OF STEVEN NICHOLAS WASZIL",
+      "document_link": "",
+      "document_text": "No Image",
+      "has_document": false,
+      "document_id": "",
+      "raw_document_id": ""
+    },
+    {
+      "date": "05/21/2025",
+      "filed_by": "TOWD POINT MORTGAGE TRUST 2017-3, U.S. B",
+      "description": "Regular Mail Service - Mailed TOWD POINT MORTGAGE TRUST 2017-3, U.S. B",
+      "document_link": "",
+      "document_text": "No Image",
+      "has_document": false,
+      "document_id": "",
+      "raw_document_id": ""
+    },
+    {
+      "date": "05/21/2025",
+      "filed_by": "TOWD POINT MORTGAGE TRUST 2017-3, U.S. B",
+      "description": "Regular Mail Service - Mailed STEVEN NICHOLAS WASZIL",
+      "document_link": "",
+      "document_text": "No Image",
+      "has_document": false,
+      "document_id": "",
+      "raw_document_id": ""
+    },
+    {
+      "date": "05/21/2025",
+      "filed_by": "TOWD POINT MORTGAGE TRUST 2017-3, U.S. B",
+      "description": "Regular Mail Service - Mailed MV REALTY OF OHIO, LLC",
+      "document_link": "",
+      "document_text": "No Image",
+      "has_document": false,
+      "document_id": "",
+      "raw_document_id": ""
+    },
+    {
+      "date": "05/21/2025",
+      "filed_by": "TOWD POINT MORTGAGE TRUST 2017-3, U.S. B",
+      "description": "Regular Mail Service - Mailed MICHAEL R. BRINKMAN",
+      "document_link": "",
+      "document_text": "No Image",
+      "has_document": false,
+      "document_id": "",
+      "raw_document_id": ""
+    },
+    {
+      "date": "05/21/2025",
+      "filed_by": "TOWD POINT MORTGAGE TRUST 2017-3, U.S. B",
+      "description": "Regular Mail Service - Mailed CARRIE LYNN DAVIS",
+      "document_link": "",
+      "document_text": "No Image",
+      "has_document": false,
+      "document_id": "",
+      "raw_document_id": ""
+    },
+    {
+      "date": "05/21/2025",
+      "filed_by": "TOWD POINT MORTGAGE TRUST 2017-3, U.S. B",
+      "description": "Regular Mail Service - Mailed AARON M. COLE",
+      "document_link": "",
+      "document_text": "No Image",
+      "has_document": false,
+      "document_id": "",
+      "raw_document_id": ""
+    },
+    {
+      "date": "05/21/2025",
+      "filed_by": "TOWD POINT MORTGAGE TRUST 2017-3, U.S. B",
+      "description": "NOTICE ISSUED RAMIREZ, YANFANG MARILYN",
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000038        00000944",
+      "document_text": "View Document",
+      "has_document": true,
+      "document_id": "vola0000003800000944",
+      "raw_document_id": "vola00000038        00000944"
+    },
+    {
+      "date": "05/21/2025",
+      "filed_by": "TOWD POINT MORTGAGE TRUST 2017-3, U.S. B",
+      "description": "NOTICE ISSUED WASZIL, UNKNOWN SPOUSE OF STEVEN NICHOLAS",
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000038        00000B84",
+      "document_text": "View Document",
+      "has_document": true,
+      "document_id": "vola0000003800000B84",
+      "raw_document_id": "vola00000038        00000B84"
+    },
+    {
+      "date": "05/21/2025",
+      "filed_by": "TOWD POINT MORTGAGE TRUST 2017-3, U.S. B",
+      "description": "NOTICE ISSUED TOWD POINT MORTGAGE TRUST 2017-3, U.S. B",
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000038        00000937",
+      "document_text": "View Document",
+      "has_document": true,
+      "document_id": "vola0000003800000937",
+      "raw_document_id": "vola00000038        00000937"
+    },
+    {
+      "date": "05/21/2025",
+      "filed_by": "TOWD POINT MORTGAGE TRUST 2017-3, U.S. B",
+      "description": "NOTICE ISSUED WASZIL, STEVEN NICHOLAS",
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000038        00000935",
+      "document_text": "View Document",
+      "has_document": true,
+      "document_id": "vola0000003800000935",
+      "raw_document_id": "vola00000038        00000935"
+    },
+    {
+      "date": "05/21/2025",
+      "filed_by": "TOWD POINT MORTGAGE TRUST 2017-3, U.S. B",
+      "description": "NOTICE ISSUED MV REALTY OF OHIO, LLC",
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000038        0000092E",
+      "document_text": "View Document",
+      "has_document": true,
+      "document_id": "vola000000380000092E",
+      "raw_document_id": "vola00000038        0000092E"
+    },
+    {
+      "date": "05/21/2025",
+      "filed_by": "TOWD POINT MORTGAGE TRUST 2017-3, U.S. B",
+      "description": "NOTICE ISSUED BRINKMAN, MICHAEL R.",
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000038        0000092D",
+      "document_text": "View Document",
+      "has_document": true,
+      "document_id": "vola000000380000092D",
+      "raw_document_id": "vola00000038        0000092D"
+    },
+    {
+      "date": "05/21/2025",
+      "filed_by": "TOWD POINT MORTGAGE TRUST 2017-3, U.S. B",
+      "description": "NOTICE ISSUED DAVIS, CARRIE LYNN",
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000038        0000092C",
+      "document_text": "View Document",
+      "has_document": true,
+      "document_id": "vola000000380000092C",
+      "raw_document_id": "vola00000038        0000092C"
+    },
+    {
+      "date": "05/21/2025",
+      "filed_by": "TOWD POINT MORTGAGE TRUST 2017-3, U.S. B",
+      "description": "NOTICE ISSUED COLE, AARON M.",
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000038        00000B83",
+      "document_text": "View Document",
+      "has_document": true,
+      "document_id": "vola0000003800000B83",
+      "raw_document_id": "vola00000038        00000B83"
+    },
+    {
+      "date": "05/05/2025",
+      "filed_by": "TOWD POINT MORTGAGE TRUST 2017-3, U.S. B",
+      "description": "PLAINTIFF SHALL FILE A MOTION FOR DEFAULT JUDGMENT WITHIN 14 DAYS FROM THE DATE OF THIS ORDER. OR THE COURT WILL DISMISS THIS CASE FOR LACK OF PROSECUTION. MAGISTRATE PAUL ZINDLE",
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000036        00005A10",
+      "document_text": "View Document",
+      "has_document": true,
+      "document_id": "vola0000003600005A10",
+      "raw_document_id": "vola00000036        00005A10"
+    },
+    {
+      "date": "02/18/2025",
+      "filed_by": "SUMMIT COUNTY CLERK OF COURTS",
+      "description": "Certified Mail Service - Served UNKNOWN SPOUSE OF STEVEN NICHOLAS WASZIL",
+      "document_link": "",
+      "document_text": "No Image",
+      "has_document": false,
+      "document_id": "",
+      "raw_document_id": ""
+    },
+    {
+      "date": "02/12/2025",
+      "filed_by": "SUMMIT COUNTY CLERK OF COURTS",
+      "description": "Certified Mail Service - Served MV REALTY OF OHIO, LLC",
+      "document_link": "",
+      "document_text": "No Image",
+      "has_document": false,
+      "document_id": "",
+      "raw_document_id": ""
+    },
+    {
+      "date": "02/05/2025",
+      "filed_by": "TOWD POINT MORTGAGE TRUST 2017-3, U.S. B",
+      "description": "SUMMONS ISSUED BY CERTIFIED MAIL BY Certified Mail WASZIL, UNKNOWN SPOUSE OF STEVEN NICHOLAS",
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000029        000045B2",
+      "document_text": "View Document",
+      "has_document": true,
+      "document_id": "vola00000029000045B2",
+      "raw_document_id": "vola00000029        000045B2"
+    },
+    {
+      "date": "02/05/2025",
+      "filed_by": "TOWD POINT MORTGAGE TRUST 2017-3, U.S. B",
+      "description": "SUMMONS ISSUED BY CERTIFIED MAIL BY Certified Mail MV REALTY OF OHIO, LLC",
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000029        000045B0",
+      "document_text": "View Document",
+      "has_document": true,
+      "document_id": "vola00000029000045B0",
+      "raw_document_id": "vola00000029        000045B0"
+    },
+    {
+      "date": "02/05/2025",
+      "filed_by": "RAMIREZ, YANFANG",
+      "description": "INSTRUCTIONS TO CLERK FOR SERVICE",
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000029        00004591",
+      "document_text": "View Document",
+      "has_document": true,
+      "document_id": "vola0000002900004591",
+      "raw_document_id": "vola00000029        00004591"
+    },
+    {
+      "date": "02/04/2025",
+      "filed_by": "TOWD POINT MORTGAGE TRUST 2017-3, U.S. B",
+      "description": "(4-3-25 NEVER PICKED UP) SUMMONS ISSUED BY PROCESS SERVER WASZIL, UNKNOWN SPOUSE OF STEVEN NICHOLAS MW",
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000029        00002FBD",
+      "document_text": "View Document",
+      "has_document": true,
+      "document_id": "vola0000002900002FBD",
+      "raw_document_id": "vola00000029        00002FBD"
+    },
+    {
+      "date": "02/04/2025",
+      "filed_by": "TOWD POINT MORTGAGE TRUST 2017-3, U.S. B",
+      "description": "(4-3-25) NEVER PICKED UP) SUMMONS ISSUED BY PROCESS SERVER MV REALTY OF OHIO, LLC (MW)",
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000029        00002FBA",
+      "document_text": "View Document",
+      "has_document": true,
+      "document_id": "vola0000002900002FBA",
+      "raw_document_id": "vola00000029        00002FBA"
+    },
+    {
+      "date": "02/03/2025",
+      "filed_by": "RAMIREZ, YANFANG",
+      "description": "INSTRUCTIONS TO CLERK FOR SERVICE BY PROCESS SERVER (PROVEST)",
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000029        00002FA3",
+      "document_text": "View Document",
+      "has_document": true,
+      "document_id": "vola0000002900002FA3",
+      "raw_document_id": "vola00000029        00002FA3"
+    },
+    {
+      "date": "01/16/2025",
+      "filed_by": "TOWD POINT MORTGAGE TRUST 2017-3, U.S. B",
+      "description": "ORDER APPOINTING PRIVATE PROCESS SERVER. KLM",
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000028        00001BA2",
+      "document_text": "View Document",
+      "has_document": true,
+      "document_id": "vola0000002800001BA2",
+      "raw_document_id": "vola00000028        00001BA2"
+    },
+    {
+      "date": "01/16/2025",
+      "filed_by": "TOWD POINT MORTGAGE TRUST 2017-3, U.S. B",
+      "description": "THE COURT WILL DISMISS THE COMPLIANT WITHOUT PREJUDICE FOR FAILURE TO PROSECUTE IF SERVICE IS NOT ACCOMPLISHED WITHIN SIX MONTHS AFTER THE COMPLAINT WAS FILED. KLM",
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000028        00000EC0",
+      "document_text": "View Document",
+      "has_document": true,
+      "document_id": "vola0000002800000EC0",
+      "raw_document_id": "vola00000028        00000EC0"
+    },
+    {
+      "date": "01/13/2025",
+      "filed_by": "RAMIREZ, YANFANG",
+      "description": "MOTION TO APPOINT PROCESS SERVER",
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000027        00003BB9",
+      "document_text": "View Document",
+      "has_document": true,
+      "document_id": "vola0000002700003BB9",
+      "raw_document_id": "vola00000027        00003BB9"
+    },
+    {
+      "date": "09/11/2024",
+      "filed_by": "TOWD POINT MORTGAGE TRUST 2017-3, U.S. B",
+      "description": "NOTIFICATION OF FAILURE TO OBTAIN SERVICE UNKNOWN SPOUSE OF STEVEN NICHOLAS WASZIL",
+      "document_link": "",
+      "document_text": "No Image",
+      "has_document": false,
+      "document_id": "",
+      "raw_document_id": ""
+    },
+    {
+      "date": "09/11/2024",
+      "filed_by": "TOWD POINT MORTGAGE TRUST 2017-3, U.S. B",
+      "description": "Sheriff Service - Attempt Made UNKNOWN SPOUSE OF STEVEN NICHOLAS WASZIL",
+      "document_link": "",
+      "document_text": "No Image",
+      "has_document": false,
+      "document_id": "",
+      "raw_document_id": ""
+    },
+    {
+      "date": "09/11/2024",
+      "filed_by": "TOWD POINT MORTGAGE TRUST 2017-3, U.S. B",
+      "description": "Sheriff Service - Personal STEVEN NICHOLAS WASZIL",
+      "document_link": "",
+      "document_text": "No Image",
+      "has_document": false,
+      "document_id": "",
+      "raw_document_id": ""
+    },
+    {
+      "date": "09/11/2024",
+      "filed_by": "TOWD POINT MORTGAGE TRUST 2017-3, U.S. B",
+      "description": "NOTIFICATION OF FAILURE TO OBTAIN SERVICE MV REALTY OF OHIO, LLC",
+      "document_link": "",
+      "document_text": "No Image",
+      "has_document": false,
+      "document_id": "",
+      "raw_document_id": ""
+    },
+    {
+      "date": "08/21/2024",
+      "filed_by": "TOWD POINT MORTGAGE TRUST 2017-3, U.S. B",
+      "description": "NOTIFICATION OF FAILURE TO OBTAIN SERVICE MV REALTY OF OHIO, LLC",
+      "document_link": "",
+      "document_text": "No Image",
+      "has_document": false,
+      "document_id": "",
+      "raw_document_id": ""
+    },
+    {
+      "date": "08/21/2024",
+      "filed_by": "TOWD POINT MORTGAGE TRUST 2017-3, U.S. B",
+      "description": "Certified Mail Service - Not Delv. As Addr. MV REALTY OF OHIO, LLC",
+      "document_link": "",
+      "document_text": "No Image",
+      "has_document": false,
+      "document_id": "",
+      "raw_document_id": ""
+    },
+    {
+      "date": "08/08/2024",
+      "filed_by": "TOWD POINT MORTGAGE TRUST 2017-3, U.S. B",
+      "description": "SUMMONS ISSUED BY SHERIFF WASZIL, UNKNOWN SPOUSE OF STEVEN NICHOLAS",
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000014        000081F7",
+      "document_text": "View Document",
+      "has_document": true,
+      "document_id": "vola00000014000081F7",
+      "raw_document_id": "vola00000014        000081F7"
+    },
+    {
+      "date": "08/08/2024",
+      "filed_by": "TOWD POINT MORTGAGE TRUST 2017-3, U.S. B",
+      "description": "SUMMONS ISSUED BY SHERIFF WASZIL, STEVEN NICHOLAS",
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000014        000081F1",
+      "document_text": "View Document",
+      "has_document": true,
+      "document_id": "vola00000014000081F1",
+      "raw_document_id": "vola00000014        000081F1"
+    },
+    {
+      "date": "08/08/2024",
+      "filed_by": "TOWD POINT MORTGAGE TRUST 2017-3, U.S. B",
+      "description": "SUMMONS ISSUED BY CERTIFIED MAIL BY Certified Mail MV REALTY OF OHIO, LLC",
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000014        000081EB",
+      "document_text": "View Document",
+      "has_document": true,
+      "document_id": "vola00000014000081EB",
+      "raw_document_id": "vola00000014        000081EB"
+    },
+    {
+      "date": "08/08/2024",
+      "filed_by": "RAMIREZ, YANFANG",
+      "description": "CERTIFICATE OF READINESS.",
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000014        00007EED",
+      "document_text": "View Document",
+      "has_document": true,
+      "document_id": "vola0000001400007EED",
+      "raw_document_id": "vola00000014        00007EED"
+    },
+    {
+      "date": "08/08/2024",
+      "filed_by": "RAMIREZ, YANFANG",
+      "description": "FORECLOSURE COMPLAINT",
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000014        00007EE9",
+      "document_text": "View Document",
+      "has_document": true,
+      "document_id": "vola0000001400007EE9",
+      "raw_document_id": "vola00000014        00007EE9"
+    },
+    {
+      "date": "08/08/2024",
+      "filed_by": "RAMIREZ, YANFANG",
+      "description": "INSTRUCTIONS TO CLERK FOR SERVICE",
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000014        00007EE3",
+      "document_text": "View Document",
+      "has_document": true,
+      "document_id": "vola0000001400007EE3",
+      "raw_document_id": "vola00000014        00007EE3"
+    },
+    {
+      "date": "08/08/2024",
+      "filed_by": "RAMIREZ, YANFANG",
+      "description": "PRELIMINARY JUDICIAL REPORT.",
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000014        00007EE5",
+      "document_text": "View Document",
+      "has_document": true,
+      "document_id": "vola0000001400007EE5",
+      "raw_document_id": "vola00000014        00007EE5"
+    }
+  ],
+  "judges_magistrates": [
+    {
+      "name": "08/08/2024",
+      "role": "",
+      "date": "MCLAUGHLIN, KELLY"
+    }
+  ],
+  "service_records": [
+    {
+      "party_name": "MV REALTY OF OHIO, LLCCT CORPORATION SYSTEM\n4400 EASTON COMMONS WAY, SUITE 125\nCOLUMBUS OH 43219-",
+      "address": "MV REALTY OF OHIO, LLC",
+      "issued_date": "CT CORPORATION SYSTEM\n4400 EASTON COMMONS WAY, SUITE 125\nCOLUMBUS OH 43219-",
+      "served_date": "08/08/2024",
+      "service_type": "",
+      "method": "",
+      "fedex_tracking": "",
+      "usps_tracking": "",
+      "tracking_number": "Not Delv. As Addr.",
+      "document_link": "",
+      "has_document": false
+    },
+    {
+      "party_name": "WASZIL, STEVEN NICHOLAS2152 Glenmount Ave\nAKRON OH 44319",
+      "address": "WASZIL, STEVEN NICHOLAS",
+      "issued_date": "2152 Glenmount Ave\nAKRON OH 44319",
+      "served_date": "08/08/2024",
+      "service_type": "",
+      "method": "08/22/2024",
+      "fedex_tracking": "",
+      "usps_tracking": "",
+      "tracking_number": "Personal",
+      "document_link": "",
+      "has_document": false
+    },
+    {
+      "party_name": "WASZIL, UNKNOWN SPOUSE OF STEVEN NICHOLAS2152 Glenmount Avenue\nAKRON OH 44319",
+      "address": "WASZIL, UNKNOWN SPOUSE OF STEVEN NICHOLAS",
+      "issued_date": "2152 Glenmount Avenue\nAKRON OH 44319",
+      "served_date": "08/08/2024",
+      "service_type": "",
+      "method": "",
+      "fedex_tracking": "",
+      "usps_tracking": "",
+      "tracking_number": "Attempt Made",
+      "document_link": "",
+      "has_document": false
+    },
+    {
+      "party_name": "MV REALTY OF OHIO, LLCCT Corporation System\n4400 Easton Commons Way, Suite 125\nCOLUMBUS OH 43219",
+      "address": "MV REALTY OF OHIO, LLC",
+      "issued_date": "CT Corporation System\n4400 Easton Commons Way, Suite 125\nCOLUMBUS OH 43219",
+      "served_date": "02/04/2025",
+      "service_type": "",
+      "method": "",
+      "fedex_tracking": "",
+      "usps_tracking": "",
+      "tracking_number": "Issued",
+      "document_link": "",
+      "has_document": false
+    },
+    {
+      "party_name": "WASZIL, UNKNOWN SPOUSE OF STEVEN NICHOLAS2152 Glenmount Avenue\nAKRON OH 44319",
+      "address": "WASZIL, UNKNOWN SPOUSE OF STEVEN NICHOLAS",
+      "issued_date": "2152 Glenmount Avenue\nAKRON OH 44319",
+      "served_date": "02/04/2025",
+      "service_type": "",
+      "method": "",
+      "fedex_tracking": "",
+      "usps_tracking": "",
+      "tracking_number": "Issued",
+      "document_link": "",
+      "has_document": false
+    },
+    {
+      "party_name": "MV REALTY OF OHIO, LLCCT CORPORATION SYSTEM\n4400 EASTON COMMONS WAY, SUITE 125\nCOLUMBUS OH 43219-",
+      "address": "MV REALTY OF OHIO, LLC",
+      "issued_date": "CT CORPORATION SYSTEM\n4400 EASTON COMMONS WAY, SUITE 125\nCOLUMBUS OH 43219-",
+      "served_date": "02/05/2025",
+      "service_type": "",
+      "method": "02/08/2025",
+      "fedex_tracking": "",
+      "usps_tracking": "",
+      "tracking_number": "Served",
+      "document_link": "",
+      "has_document": false
+    },
+    {
+      "party_name": "WASZIL, UNKNOWN SPOUSE OF STEVEN NICHOLAS2152 GLENMOUNT AVENUE\nAKRON OH 44319-",
+      "address": "WASZIL, UNKNOWN SPOUSE OF STEVEN NICHOLAS",
+      "issued_date": "2152 GLENMOUNT AVENUE\nAKRON OH 44319-",
+      "served_date": "02/05/2025",
+      "service_type": "",
+      "method": "02/11/2025",
+      "fedex_tracking": "",
+      "usps_tracking": "",
+      "tracking_number": "Served",
+      "document_link": "",
+      "has_document": false
+    },
+    {
+      "party_name": "COLE, AARON M.3962 Red Bank Road\nCincinnati OH 45227",
+      "address": "COLE, AARON M.",
+      "issued_date": "3962 Red Bank Road\nCincinnati OH 45227",
+      "served_date": "05/21/2025",
+      "service_type": "",
+      "method": "05/21/2025",
+      "fedex_tracking": "",
+      "usps_tracking": "",
+      "tracking_number": "Mailed",
+      "document_link": "",
+      "has_document": false
+    },
+    {
+      "party_name": "DAVIS, CARRIE LYNN3962 RED BANK ROAD\nCINCINNATI OH 45227",
+      "address": "DAVIS, CARRIE LYNN",
+      "issued_date": "3962 RED BANK ROAD\nCINCINNATI OH 45227",
+      "served_date": "05/21/2025",
+      "service_type": "",
+      "method": "05/21/2025",
+      "fedex_tracking": "",
+      "usps_tracking": "",
+      "tracking_number": "Mailed",
+      "document_link": "",
+      "has_document": false
+    },
+    {
+      "party_name": "BRINKMAN, MICHAEL R.3962 Red Bank Road\nCincinnati OH 45227",
+      "address": "BRINKMAN, MICHAEL R.",
+      "issued_date": "3962 Red Bank Road\nCincinnati OH 45227",
+      "served_date": "05/21/2025",
+      "service_type": "",
+      "method": "05/21/2025",
+      "fedex_tracking": "",
+      "usps_tracking": "",
+      "tracking_number": "Mailed",
+      "document_link": "",
+      "has_document": false
+    },
+    {
+      "party_name": "MV REALTY OF OHIO, LLCCT Corporation System\n4400 Easton Commons Way, Suite 125\nCOLUMBUS OH 43219",
+      "address": "MV REALTY OF OHIO, LLC",
+      "issued_date": "CT Corporation System\n4400 Easton Commons Way, Suite 125\nCOLUMBUS OH 43219",
+      "served_date": "05/21/2025",
+      "service_type": "",
+      "method": "05/21/2025",
+      "fedex_tracking": "",
+      "usps_tracking": "",
+      "tracking_number": "Mailed",
+      "document_link": "",
+      "has_document": false
+    },
+    {
+      "party_name": "WASZIL, STEVEN NICHOLAS2152 Glenmount Ave\nAKRON OH 44319",
+      "address": "WASZIL, STEVEN NICHOLAS",
+      "issued_date": "2152 Glenmount Ave\nAKRON OH 44319",
+      "served_date": "05/21/2025",
+      "service_type": "",
+      "method": "05/21/2025",
+      "fedex_tracking": "",
+      "usps_tracking": "",
+      "tracking_number": "Mailed",
+      "document_link": "",
+      "has_document": false
+    },
+    {
+      "party_name": "TOWD POINT MORTGAGE TRUST 2017-3, U.S. B3217 S. Decker Lake Drive\nSalt Lake City UT 84119",
+      "address": "TOWD POINT MORTGAGE TRUST 2017-3, U.S. B",
+      "issued_date": "3217 S. Decker Lake Drive\nSalt Lake City UT 84119",
+      "served_date": "05/21/2025",
+      "service_type": "",
+      "method": "05/21/2025",
+      "fedex_tracking": "",
+      "usps_tracking": "",
+      "tracking_number": "Mailed",
+      "document_link": "",
+      "has_document": false
+    },
+    {
+      "party_name": "WASZIL, UNKNOWN SPOUSE OF STEVEN NICHOLAS2152 Glenmount Avenue\nAKRON OH 44319",
+      "address": "WASZIL, UNKNOWN SPOUSE OF STEVEN NICHOLAS",
+      "issued_date": "2152 Glenmount Avenue\nAKRON OH 44319",
+      "served_date": "05/21/2025",
+      "service_type": "",
+      "method": "05/21/2025",
+      "fedex_tracking": "",
+      "usps_tracking": "",
+      "tracking_number": "Mailed",
+      "document_link": "",
+      "has_document": false
+    },
+    {
+      "party_name": "RAMIREZ, YANFANG MARILYN3962 Red Bank Rd\nCincinnati OH 45227",
+      "address": "RAMIREZ, YANFANG MARILYN",
+      "issued_date": "3962 Red Bank Rd\nCincinnati OH 45227",
+      "served_date": "05/21/2025",
+      "service_type": "",
+      "method": "05/21/2025",
+      "fedex_tracking": "",
+      "usps_tracking": "",
+      "tracking_number": "Mailed",
+      "document_link": "",
+      "has_document": false
+    }
+  ],
+  "documents": [
+    {
+      "index": 1,
+      "link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000042        0000367D",
+      "text": "View Document",
+      "document_id": "vola000000420000367D",
+      "context": "06/26/2025TOWD POINT MORTGAGE TRUST 2017-3, U.S. BORDER DENYING MOTION TO RECONSIDER.   KLMView Document",
+      "raw_document_id": "vola00000042        0000367D"
+    },
+    {
+      "index": 2,
+      "link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000041        0000267E",
+      "text": "View Document",
+      "document_id": "vola000000410000267E",
+      "context": "06/18/2025WILLIAMS, MARIANOTICE OF APPEARANCE OF ATTORNEY MARIA T. WILLIAMS FOR PLAINTIFF, TOWD POINT MORTGAGE TRUST 2017-3, U.S. BANK NATIONAL ASSOCIATION, AS INDENTURE TRUSTEEView Document",
+      "raw_document_id": "vola00000041        0000267E"
+    },
+    {
+      "index": 3,
+      "link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000041        0000267F",
+      "text": "View Document",
+      "document_id": "vola000000410000267F",
+      "context": "06/18/2025WILLIAMS, MARIAMOTION TO RECONSIDERView Document",
+      "raw_document_id": "vola00000041        0000267F"
+    },
+    {
+      "index": 4,
+      "link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000038        00000950",
+      "text": "View Document",
+      "document_id": "vola0000003800000950",
+      "context": "05/21/2025TOWD POINT MORTGAGE TRUST 2017-3, U.S. BTHE PLAINTIFF HAVING FAILED TO FILE A MOTION FOR DEFAULT JUDGMENT IN RESPONSE TO THE COURT'S PREVIOUS ORDER, THIS CASE IS HEREBY DISMISSED, WITHOUT PREJUDICE, FOR LACK OF PROSECUTION. COSTS TO PLAINTIFF. KLMView Document",
+      "raw_document_id": "vola00000038        00000950"
+    },
+    {
+      "index": 5,
+      "link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000038        00000944",
+      "text": "View Document",
+      "document_id": "vola0000003800000944",
+      "context": "05/21/2025TOWD POINT MORTGAGE TRUST 2017-3, U.S. BNOTICE ISSUED RAMIREZ, YANFANG MARILYNView Document",
+      "raw_document_id": "vola00000038        00000944"
+    },
+    {
+      "index": 6,
+      "link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000038        00000B84",
+      "text": "View Document",
+      "document_id": "vola0000003800000B84",
+      "context": "05/21/2025TOWD POINT MORTGAGE TRUST 2017-3, U.S. BNOTICE ISSUED WASZIL, UNKNOWN SPOUSE OF STEVEN NICHOLASView Document",
+      "raw_document_id": "vola00000038        00000B84"
+    },
+    {
+      "index": 7,
+      "link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000038        00000937",
+      "text": "View Document",
+      "document_id": "vola0000003800000937",
+      "context": "05/21/2025TOWD POINT MORTGAGE TRUST 2017-3, U.S. BNOTICE ISSUED TOWD POINT MORTGAGE TRUST 2017-3, U.S. BView Document",
+      "raw_document_id": "vola00000038        00000937"
+    },
+    {
+      "index": 8,
+      "link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000038        00000935",
+      "text": "View Document",
+      "document_id": "vola0000003800000935",
+      "context": "05/21/2025TOWD POINT MORTGAGE TRUST 2017-3, U.S. BNOTICE ISSUED WASZIL, STEVEN NICHOLASView Document",
+      "raw_document_id": "vola00000038        00000935"
+    },
+    {
+      "index": 9,
+      "link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000038        0000092E",
+      "text": "View Document",
+      "document_id": "vola000000380000092E",
+      "context": "05/21/2025TOWD POINT MORTGAGE TRUST 2017-3, U.S. BNOTICE ISSUED MV REALTY OF OHIO, LLCView Document",
+      "raw_document_id": "vola00000038        0000092E"
+    },
+    {
+      "index": 10,
+      "link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000038        0000092D",
+      "text": "View Document",
+      "document_id": "vola000000380000092D",
+      "context": "05/21/2025TOWD POINT MORTGAGE TRUST 2017-3, U.S. BNOTICE ISSUED BRINKMAN, MICHAEL R.View Document",
+      "raw_document_id": "vola00000038        0000092D"
+    },
+    {
+      "index": 11,
+      "link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000038        0000092C",
+      "text": "View Document",
+      "document_id": "vola000000380000092C",
+      "context": "05/21/2025TOWD POINT MORTGAGE TRUST 2017-3, U.S. BNOTICE ISSUED DAVIS, CARRIE LYNNView Document",
+      "raw_document_id": "vola00000038        0000092C"
+    },
+    {
+      "index": 12,
+      "link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000038        00000B83",
+      "text": "View Document",
+      "document_id": "vola0000003800000B83",
+      "context": "05/21/2025TOWD POINT MORTGAGE TRUST 2017-3, U.S. BNOTICE ISSUED COLE, AARON M.View Document",
+      "raw_document_id": "vola00000038        00000B83"
+    },
+    {
+      "index": 13,
+      "link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000036        00005A10",
+      "text": "View Document",
+      "document_id": "vola0000003600005A10",
+      "context": "05/05/2025TOWD POINT MORTGAGE TRUST 2017-3, U.S. BPLAINTIFF SHALL FILE A MOTION FOR DEFAULT JUDGMENT WITHIN 14 DAYS FROM THE DATE OF THIS ORDER. OR THE COURT WILL DISMISS THIS CASE FOR LACK OF PROSECUTION. MAGISTRATE PAUL ZINDLEView Document",
+      "raw_document_id": "vola00000036        00005A10"
+    },
+    {
+      "index": 14,
+      "link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000029        000045B2",
+      "text": "View Document",
+      "document_id": "vola00000029000045B2",
+      "context": "02/05/2025TOWD POINT MORTGAGE TRUST 2017-3, U.S. BSUMMONS ISSUED BY CERTIFIED MAIL BY Certified Mail WASZIL, UNKNOWN SPOUSE OF STEVEN NICHOLASView Document",
+      "raw_document_id": "vola00000029        000045B2"
+    },
+    {
+      "index": 15,
+      "link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000029        000045B0",
+      "text": "View Document",
+      "document_id": "vola00000029000045B0",
+      "context": "02/05/2025TOWD POINT MORTGAGE TRUST 2017-3, U.S. BSUMMONS ISSUED BY CERTIFIED MAIL BY Certified Mail MV REALTY OF OHIO, LLCView Document",
+      "raw_document_id": "vola00000029        000045B0"
+    },
+    {
+      "index": 16,
+      "link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000029        00004591",
+      "text": "View Document",
+      "document_id": "vola0000002900004591",
+      "context": "02/05/2025RAMIREZ, YANFANGINSTRUCTIONS TO CLERK FOR SERVICEView Document",
+      "raw_document_id": "vola00000029        00004591"
+    },
+    {
+      "index": 17,
+      "link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000029        00002FBD",
+      "text": "View Document",
+      "document_id": "vola0000002900002FBD",
+      "context": "02/04/2025TOWD POINT MORTGAGE TRUST 2017-3, U.S. B(4-3-25 NEVER PICKED UP) SUMMONS ISSUED BY PROCESS SERVER WASZIL, UNKNOWN SPOUSE OF STEVEN NICHOLAS MWView Document",
+      "raw_document_id": "vola00000029        00002FBD"
+    },
+    {
+      "index": 18,
+      "link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000029        00002FBA",
+      "text": "View Document",
+      "document_id": "vola0000002900002FBA",
+      "context": "02/04/2025TOWD POINT MORTGAGE TRUST 2017-3, U.S. B(4-3-25) NEVER PICKED UP) SUMMONS ISSUED BY PROCESS SERVER MV REALTY OF OHIO, LLC (MW)View Document",
+      "raw_document_id": "vola00000029        00002FBA"
+    },
+    {
+      "index": 19,
+      "link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000029        00002FA3",
+      "text": "View Document",
+      "document_id": "vola0000002900002FA3",
+      "context": "02/03/2025RAMIREZ, YANFANGINSTRUCTIONS TO CLERK FOR SERVICE BY PROCESS SERVER (PROVEST)View Document",
+      "raw_document_id": "vola00000029        00002FA3"
+    },
+    {
+      "index": 20,
+      "link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000028        00001BA2",
+      "text": "View Document",
+      "document_id": "vola0000002800001BA2",
+      "context": "01/16/2025TOWD POINT MORTGAGE TRUST 2017-3, U.S. BORDER APPOINTING PRIVATE PROCESS SERVER. KLMView Document",
+      "raw_document_id": "vola00000028        00001BA2"
+    },
+    {
+      "index": 21,
+      "link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000028        00000EC0",
+      "text": "View Document",
+      "document_id": "vola0000002800000EC0",
+      "context": "01/16/2025TOWD POINT MORTGAGE TRUST 2017-3, U.S. BTHE COURT WILL DISMISS THE COMPLIANT WITHOUT PREJUDICE FOR FAILURE TO PROSECUTE IF SERVICE IS NOT ACCOMPLISHED WITHIN SIX MONTHS AFTER THE COMPLAINT WAS FILED. KLMView Document",
+      "raw_document_id": "vola00000028        00000EC0"
+    },
+    {
+      "index": 22,
+      "link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000027        00003BB9",
+      "text": "View Document",
+      "document_id": "vola0000002700003BB9",
+      "context": "01/13/2025RAMIREZ, YANFANGMOTION TO APPOINT PROCESS SERVERView Document",
+      "raw_document_id": "vola00000027        00003BB9"
+    },
+    {
+      "index": 23,
+      "link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000014        000081F7",
+      "text": "View Document",
+      "document_id": "vola00000014000081F7",
+      "context": "08/08/2024TOWD POINT MORTGAGE TRUST 2017-3, U.S. BSUMMONS ISSUED BY SHERIFF WASZIL, UNKNOWN SPOUSE OF STEVEN NICHOLASView Document",
+      "raw_document_id": "vola00000014        000081F7"
+    },
+    {
+      "index": 24,
+      "link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000014        000081F1",
+      "text": "View Document",
+      "document_id": "vola00000014000081F1",
+      "context": "08/08/2024TOWD POINT MORTGAGE TRUST 2017-3, U.S. BSUMMONS ISSUED BY SHERIFF WASZIL, STEVEN NICHOLASView Document",
+      "raw_document_id": "vola00000014        000081F1"
+    },
+    {
+      "index": 25,
+      "link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000014        000081EB",
+      "text": "View Document",
+      "document_id": "vola00000014000081EB",
+      "context": "08/08/2024TOWD POINT MORTGAGE TRUST 2017-3, U.S. BSUMMONS ISSUED BY CERTIFIED MAIL BY Certified Mail MV REALTY OF OHIO, LLCView Document",
+      "raw_document_id": "vola00000014        000081EB"
+    },
+    {
+      "index": 26,
+      "link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000014        00007EED",
+      "text": "View Document",
+      "document_id": "vola0000001400007EED",
+      "context": "08/08/2024RAMIREZ, YANFANGCERTIFICATE OF READINESS.View Document",
+      "raw_document_id": "vola00000014        00007EED"
+    },
+    {
+      "index": 27,
+      "link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000014        00007EE9",
+      "text": "View Document",
+      "document_id": "vola0000001400007EE9",
+      "context": "08/08/2024RAMIREZ, YANFANGFORECLOSURE COMPLAINTView Document",
+      "raw_document_id": "vola00000014        00007EE9"
+    },
+    {
+      "index": 28,
+      "link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000014        00007EE3",
+      "text": "View Document",
+      "document_id": "vola0000001400007EE3",
+      "context": "08/08/2024RAMIREZ, YANFANGINSTRUCTIONS TO CLERK FOR SERVICEView Document",
+      "raw_document_id": "vola00000014        00007EE3"
+    },
+    {
+      "index": 29,
+      "link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000014        00007EE5",
+      "text": "View Document",
+      "document_id": "vola0000001400007EE5",
+      "context": "08/08/2024RAMIREZ, YANFANGPRELIMINARY JUDICIAL REPORT.View Document",
+      "raw_document_id": "vola00000014        00007EE5"
+    },
+    {
+      "index": 30,
+      "link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000015        00006DFC",
+      "text": "Document 1",
+      "document_id": "vola0000001500006DFC",
+      "context": "MV REALTY OF OHIO, LLCCT CORPORATION SYSTEM\n4400 EASTON COMMONS WAY, SUITE 125\nCOLUMBUS OH 43219-08/08/2024Not Delv. As Addr.Certified Mail92148901577446000001816766Document 1",
+      "raw_document_id": "vola00000015        00006DFC"
+    },
+    {
+      "index": 31,
+      "link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000017        0000038F",
+      "text": "Document 2",
+      "document_id": "vola000000170000038F",
+      "context": "WASZIL, STEVEN NICHOLAS2152 Glenmount Ave\nAKRON OH 4431908/08/202408/22/2024PersonalSheriffn/aDocument 2",
+      "raw_document_id": "vola00000017        0000038F"
+    },
+    {
+      "index": 32,
+      "link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000017        0000038D",
+      "text": "Document 3",
+      "document_id": "vola000000170000038D",
+      "context": "WASZIL, UNKNOWN SPOUSE OF STEVEN NICHOLAS2152 Glenmount Avenue\nAKRON OH 4431908/08/2024Attempt MadeSheriffn/aDocument 3",
+      "raw_document_id": "vola00000017        0000038D"
+    },
+    {
+      "index": 33,
+      "link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000029        000084E9",
+      "text": "Document 4",
+      "document_id": "vola00000029000084E9",
+      "context": "MV REALTY OF OHIO, LLCCT CORPORATION SYSTEM\n4400 EASTON COMMONS WAY, SUITE 125\nCOLUMBUS OH 43219-02/05/202502/08/2025ServedCertified Mail92148901577446000001916541Document 4",
+      "raw_document_id": "vola00000029        000084E9"
+    },
+    {
+      "index": 34,
+      "link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000030        00003889",
+      "text": "Document 5",
+      "document_id": "vola0000003000003889",
+      "context": "WASZIL, UNKNOWN SPOUSE OF STEVEN NICHOLAS2152 GLENMOUNT AVENUE\nAKRON OH 44319-02/05/202502/11/2025ServedCertified Mail92148901577446000001916558Document 5",
+      "raw_document_id": "vola00000030        00003889"
+    }
+  ],
+  "metadata": {
+    "parsed_at": "2025-08-09T21:45:51.316881",
+    "total_docket_entries": 45,
+    "total_documents": 34,
+    "total_service_records": 15
+  }
+}
