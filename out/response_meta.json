@@ -1,6 +1,6 @@
 {
-  "fetched_at_utc": "2025-08-09T15:56:55.441658Z",
-  "url": "https://clerkweb.summitoh.net/PublicSite/CaseDetail.aspx?CaseNo=CV-2024-08-3426&Suffix=&Type=",
+  "fetched_at_utc": "2025-08-10T18:36:09.270590Z",
+  "url": "https://clerkweb.summitoh.net/PublicSite/CaseDetail.aspx?CaseNo=CV-2024-08-3427&Suffix=&Type=",
   "status_code": 200,
   "reason": "",
   "response_headers": {
@@ -11,8 +11,8 @@
     "server": "Microsoft-IIS/10.0",
     "x-aspnet-version": "4.0.30319",
     "x-powered-by": "ASP.NET",
-    "date": "Sat, 09 Aug 2025 15:56:52 GMT",
-    "content-length": "20860"
+    "date": "Sun, 10 Aug 2025 18:36:07 GMT",
+    "content-length": "21528"
   },
   "request_headers_sent": {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
