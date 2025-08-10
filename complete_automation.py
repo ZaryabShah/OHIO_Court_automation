@@ -95,6 +95,15 @@ class CompleteForeClosureAutomation:
             chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
             chrome_options.add_experimental_option('useAutomationExtension', False)
             
+            # PDF handling preferences
+            prefs = {
+                'plugins.always_open_pdf_externally': False,  # View PDFs in browser
+                'plugins.plugins_disabled': [],
+                'profile.default_content_settings.popups': 0,
+                'profile.default_content_setting_values.automatic_downloads': 1
+            }
+            chrome_options.add_experimental_option('prefs', prefs)
+            
             self.driver = webdriver.Chrome(options=chrome_options)
             self.driver.execute_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
             self.wait = WebDriverWait(self.driver, 15)
@@ -365,57 +374,90 @@ class CompleteForeClosureAutomation:
         return None
     
     def download_foreclosure_complaint(self, document_info: Dict, folder_path: str) -> bool:
-        """Download foreclosure complaint PDF"""
+        """Download foreclosure complaint PDF using browser session cookies"""
         try:
             if not document_info.get('document_link'):
                 logger.warning("No document link available")
                 return False
             
-            # Convert DisplayImage URL to direct PDF URL
-            pdf_url = self.convert_display_image_to_pdf_url(document_info['document_link'])
-            
             logger.info(f"Downloading foreclosure complaint: {document_info['document_id']}")
             
-            # First try direct PDF download
-            response = self.session.get(pdf_url, timeout=30)
+            # Get all cookies from the current browser session
+            browser_cookies = self.driver.get_cookies()
             
-            if response.status_code == 200:
-                # Check if it's actually a PDF
-                if 'pdf' in response.headers.get('content-type', '').lower() or response.content.startswith(b'%PDF'):
-                    filename = f"{document_info['document_id']}_Foreclosure_Complaint.pdf"
-                    filepath = os.path.join(folder_path, filename)
-                    
-                    with open(filepath, 'wb') as f:
-                        f.write(response.content)
-                    
-                    logger.info(f"Successfully downloaded: {filename} ({len(response.content)} bytes)")
-                    return True
+            # Create a new requests session with browser cookies
+            download_session = requests.Session()
+            download_session.headers.update({
+                'User-Agent': self.driver.execute_script("return navigator.userAgent;"),
+                'Accept': 'application/pdf,application/octet-stream,*/*',
+                'Accept-Language': 'en-US,en;q=0.9',
+                'Accept-Encoding': 'gzip, deflate, br',
+                'Connection': 'keep-alive',
+                'Upgrade-Insecure-Requests': '1'
+            })
             
-            # If direct PDF fails, try using browser to download the document
-            logger.info("Direct PDF download failed, trying browser download...")
+            # Add all browser cookies to the session
+            for cookie in browser_cookies:
+                download_session.cookies.set(
+                    name=cookie['name'],
+                    value=cookie['value'],
+                    domain=cookie.get('domain', ''),
+                    path=cookie.get('path', '/'),
+                    secure=cookie.get('secure', False)
+                )
+            
+            # Try direct PDF URL first
+            pdf_url = self.convert_display_image_to_pdf_url(document_info['document_link'])
+            logger.info(f"Trying PDF URL: {pdf_url}")
             
             try:
-                # Navigate to the document link using the browser
-                self.driver.get(document_info['document_link'])
-                time.sleep(3)
+                response = download_session.get(pdf_url, timeout=30, allow_redirects=True)
+                logger.info(f"PDF URL response: {response.status_code}, Content-Type: {response.headers.get('content-type')}, Size: {len(response.content)}")
                 
-                # Get the page source after loading the document
-                doc_content = self.driver.page_source
-                
-                # Save as HTML if it's not a PDF
-                filename = f"{document_info['document_id']}_Foreclosure_Complaint.html"
-                filepath = os.path.join(folder_path, filename)
-                
-                with open(filepath, 'w', encoding='utf-8') as f:
-                    f.write(doc_content)
-                
-                logger.info(f"Downloaded document as HTML: {filename}")
-                return True
-                
-            except Exception as browser_error:
-                logger.error(f"Browser download also failed: {browser_error}")
+                if response.status_code == 200 and len(response.content) > 1000:
+                    if 'pdf' in response.headers.get('content-type', '').lower() or response.content.startswith(b'%PDF'):
+                        filename = f"{document_info['document_id']}_Foreclosure_Complaint.pdf"
+                        filepath = os.path.join(folder_path, filename)
+                        
+                        with open(filepath, 'wb') as f:
+                            f.write(response.content)
+                        
+                        logger.info(f"Successfully downloaded PDF: {filename} ({len(response.content)} bytes)")
+                        return True
+            except Exception as e:
+                logger.warning(f"PDF URL failed: {e}")
             
-            logger.error(f"Failed to download document: HTTP {response.status_code}")
+            # Try DisplayImage URL if PDF URL failed
+            logger.info(f"Trying DisplayImage URL: {document_info['document_link']}")
+            
+            try:
+                response = download_session.get(document_info['document_link'], timeout=30, allow_redirects=True)
+                logger.info(f"DisplayImage response: {response.status_code}, Content-Type: {response.headers.get('content-type')}, Size: {len(response.content)}")
+                
+                if response.status_code == 200 and len(response.content) > 1000:
+                    if 'pdf' in response.headers.get('content-type', '').lower() or response.content.startswith(b'%PDF'):
+                        filename = f"{document_info['document_id']}_Foreclosure_Complaint.pdf"
+                        filepath = os.path.join(folder_path, filename)
+                        
+                        with open(filepath, 'wb') as f:
+                            f.write(response.content)
+                        
+                        logger.info(f"Successfully downloaded PDF via DisplayImage: {filename} ({len(response.content)} bytes)")
+                        return True
+                    else:
+                        # Content is not PDF, save as HTML
+                        filename = f"{document_info['document_id']}_Foreclosure_Complaint.html"
+                        filepath = os.path.join(folder_path, filename)
+                        
+                        with open(filepath, 'w', encoding='utf-8') as f:
+                            f.write(response.text)
+                        
+                        logger.info(f"Downloaded non-PDF content as HTML: {filename}")
+                        return True
+            except Exception as e:
+                logger.warning(f"DisplayImage URL failed: {e}")
+            
+            logger.error("All download methods failed")
             return False
             
         except Exception as e:

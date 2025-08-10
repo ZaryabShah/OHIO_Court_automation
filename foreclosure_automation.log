@@ -571,3 +571,262 @@ Stacktrace:
 2025-08-11 01:34:59,079 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000150B45A5290>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2cd39def00bc5fee7d1620fead6e4576
 2025-08-11 01:35:03,132 - INFO - Browser closed
 2025-08-11 01:35:03,132 - INFO - Foreclosure automation ended
+2025-08-11 02:41:55,650 - INFO - Loaded 10 previously processed cases
+2025-08-11 02:41:57,791 - INFO - Browser initialized successfully
+2025-08-11 02:41:59,971 - INFO - Browser closed
+2025-08-11 02:42:39,088 - INFO - Loaded 10 previously processed cases
+2025-08-11 02:42:40,614 - INFO - Browser initialized successfully
+2025-08-11 02:42:41,968 - INFO - Downloading foreclosure complaint: vola0000004600001EA1
+2025-08-11 02:42:41,980 - INFO - Trying PDF URL: https://clerkweb.summitoh.net/PublicSite/Documents/vola0000004600001EA1.pdf
+2025-08-11 02:42:43,964 - INFO - PDF URL response: 200, Content-Type: application/pdf, Size: 276596
+2025-08-11 02:42:46,484 - INFO - Browser closed
+2025-08-11 02:43:38,855 - INFO - No previous processed cases found
+2025-08-11 02:43:40,417 - INFO - Browser initialized successfully
+2025-08-11 02:43:40,417 - INFO - Searching for foreclosure cases on 08/08/2025
+2025-08-11 02:43:51,909 - INFO - Found 10 cases for 08/08/2025
+2025-08-11 02:43:51,909 - INFO - Processing case: CV-2025-08-3686
+2025-08-11 02:43:51,909 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3686_08_08_2025
+2025-08-11 02:43:51,909 - INFO - Getting details for case: CV-2025-08-3686
+2025-08-11 02:43:55,824 - INFO - Clicked on document tab
+2025-08-11 02:43:57,832 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3686_08_08_2025\case_details.json
+2025-08-11 02:43:57,832 - INFO - Downloading foreclosure complaint: vola0000004600001EA1
+2025-08-11 02:43:57,844 - INFO - Trying PDF URL: https://clerkweb.summitoh.net/PublicSite/Documents/vola0000004600001EA1.pdf
+2025-08-11 02:43:59,846 - INFO - PDF URL response: 200, Content-Type: application/pdf, Size: 276596
+2025-08-11 02:43:59,880 - INFO - Successfully downloaded PDF: vola0000004600001EA1_Foreclosure_Complaint.pdf (276596 bytes)
+2025-08-11 02:43:59,883 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3686_08_08_2025\case_metadata.json
+2025-08-11 02:43:59,885 - INFO - Saved 1 processed cases
+2025-08-11 02:43:59,885 - INFO - Successfully processed case: CV-2025-08-3686
+2025-08-11 02:43:59,885 - INFO - Processing case: CV-2025-08-3687
+2025-08-11 02:43:59,885 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3687_08_08_2025
+2025-08-11 02:43:59,885 - INFO - Getting details for case: CV-2025-08-3687
+2025-08-11 02:44:03,272 - INFO - Clicked on document tab
+2025-08-11 02:44:05,308 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3687_08_08_2025\case_details.json
+2025-08-11 02:44:05,308 - INFO - Downloading foreclosure complaint: vola0000004600001EAF
+2025-08-11 02:44:05,313 - INFO - Trying PDF URL: https://clerkweb.summitoh.net/PublicSite/Documents/vola0000004600001EAF.pdf
+2025-08-11 02:44:07,345 - INFO - PDF URL response: 200, Content-Type: application/pdf, Size: 275970
+2025-08-11 02:44:07,377 - INFO - Successfully downloaded PDF: vola0000004600001EAF_Foreclosure_Complaint.pdf (275970 bytes)
+2025-08-11 02:44:07,377 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3687_08_08_2025\case_metadata.json
+2025-08-11 02:44:07,377 - INFO - Saved 2 processed cases
+2025-08-11 02:44:07,377 - INFO - Successfully processed case: CV-2025-08-3687
+2025-08-11 02:44:07,377 - INFO - Processing case: CV-2025-08-3688
+2025-08-11 02:44:07,377 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3688_08_08_2025
+2025-08-11 02:44:07,377 - INFO - Getting details for case: CV-2025-08-3688
+2025-08-11 02:44:10,800 - INFO - Clicked on document tab
+2025-08-11 02:44:12,815 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3688_08_08_2025\case_details.json
+2025-08-11 02:44:12,815 - INFO - Downloading foreclosure complaint: vola0000004600001EBE
+2025-08-11 02:44:12,826 - INFO - Trying PDF URL: https://clerkweb.summitoh.net/PublicSite/Documents/vola0000004600001EBE.pdf
+2025-08-11 02:44:14,918 - INFO - PDF URL response: 200, Content-Type: application/pdf, Size: 279157
+2025-08-11 02:44:14,953 - INFO - Successfully downloaded PDF: vola0000004600001EBE_Foreclosure_Complaint.pdf (279157 bytes)
+2025-08-11 02:44:14,956 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3688_08_08_2025\case_metadata.json
+2025-08-11 02:44:14,958 - INFO - Saved 3 processed cases
+2025-08-11 02:44:14,958 - INFO - Successfully processed case: CV-2025-08-3688
+2025-08-11 02:44:17,431 - INFO - Browser closed
+2025-08-11 03:29:52,409 - INFO - ============================================================
+2025-08-11 03:29:52,410 - INFO - SUMMIT COUNTY FORECLOSURE AUTOMATION STARTING
+2025-08-11 03:29:52,410 - INFO - ============================================================
+2025-08-11 03:29:52,410 - INFO - No previous processed cases found
+2025-08-11 03:29:54,010 - INFO - Browser initialized successfully
+2025-08-11 03:29:54,010 - INFO - Starting continuous foreclosure monitoring...
+2025-08-11 03:29:54,010 - INFO - Starting monitoring cycle for 08/08/2025
+2025-08-11 03:29:54,010 - INFO - Searching for foreclosure cases on 08/08/2025
+2025-08-11 03:30:05,668 - INFO - Found 10 cases for 08/08/2025
+2025-08-11 03:30:05,668 - INFO - Processing case: CV-2025-08-3686
+2025-08-11 03:30:05,668 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3686_08_08_2025
+2025-08-11 03:30:05,668 - INFO - Getting details for case: CV-2025-08-3686
+2025-08-11 03:30:09,638 - INFO - Clicked on document tab
+2025-08-11 03:30:11,644 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3686_08_08_2025\case_details.json
+2025-08-11 03:30:11,644 - INFO - Downloading foreclosure complaint: vola0000004600001EA1
+2025-08-11 03:30:11,660 - INFO - Trying PDF URL: https://clerkweb.summitoh.net/PublicSite/Documents/vola0000004600001EA1.pdf
+2025-08-11 03:30:13,682 - INFO - PDF URL response: 200, Content-Type: application/pdf, Size: 276596
+2025-08-11 03:30:13,709 - INFO - Successfully downloaded PDF: vola0000004600001EA1_Foreclosure_Complaint.pdf (276596 bytes)
+2025-08-11 03:30:13,711 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3686_08_08_2025\case_metadata.json
+2025-08-11 03:30:13,712 - INFO - Saved 1 processed cases
+2025-08-11 03:30:13,713 - INFO - Successfully processed case: CV-2025-08-3686
+2025-08-11 03:30:15,714 - INFO - Processing case: CV-2025-08-3687
+2025-08-11 03:30:15,714 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3687_08_08_2025
+2025-08-11 03:30:15,714 - INFO - Getting details for case: CV-2025-08-3687
+2025-08-11 03:30:19,112 - INFO - Clicked on document tab
+2025-08-11 03:30:21,125 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3687_08_08_2025\case_details.json
+2025-08-11 03:30:21,125 - INFO - Downloading foreclosure complaint: vola0000004600001EAF
+2025-08-11 03:30:21,135 - INFO - Trying PDF URL: https://clerkweb.summitoh.net/PublicSite/Documents/vola0000004600001EAF.pdf
+2025-08-11 03:30:23,104 - INFO - PDF URL response: 200, Content-Type: application/pdf, Size: 275970
+2025-08-11 03:30:23,148 - INFO - Successfully downloaded PDF: vola0000004600001EAF_Foreclosure_Complaint.pdf (275970 bytes)
+2025-08-11 03:30:23,151 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3687_08_08_2025\case_metadata.json
+2025-08-11 03:30:23,152 - INFO - Saved 2 processed cases
+2025-08-11 03:30:23,152 - INFO - Successfully processed case: CV-2025-08-3687
+2025-08-11 03:30:25,154 - INFO - Processing case: CV-2025-08-3688
+2025-08-11 03:30:25,156 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3688_08_08_2025
+2025-08-11 03:30:25,156 - INFO - Getting details for case: CV-2025-08-3688
+2025-08-11 03:30:28,581 - INFO - Clicked on document tab
+2025-08-11 03:30:30,600 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3688_08_08_2025\case_details.json
+2025-08-11 03:30:30,600 - INFO - Downloading foreclosure complaint: vola0000004600001EBE
+2025-08-11 03:30:30,600 - INFO - Trying PDF URL: https://clerkweb.summitoh.net/PublicSite/Documents/vola0000004600001EBE.pdf
+2025-08-11 03:30:32,602 - INFO - PDF URL response: 200, Content-Type: application/pdf, Size: 279157
+2025-08-11 03:30:32,631 - INFO - Successfully downloaded PDF: vola0000004600001EBE_Foreclosure_Complaint.pdf (279157 bytes)
+2025-08-11 03:30:32,631 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3688_08_08_2025\case_metadata.json
+2025-08-11 03:30:32,636 - INFO - Saved 3 processed cases
+2025-08-11 03:30:32,636 - INFO - Successfully processed case: CV-2025-08-3688
+2025-08-11 03:30:34,637 - INFO - Processing case: CV-2025-08-3689
+2025-08-11 03:30:34,637 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3689_08_08_2025
+2025-08-11 03:30:34,637 - INFO - Getting details for case: CV-2025-08-3689
+2025-08-11 03:30:38,049 - INFO - Clicked on document tab
+2025-08-11 03:30:40,093 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3689_08_08_2025\case_details.json
+2025-08-11 03:30:40,093 - INFO - Downloading foreclosure complaint: vola0000004600001ECD
+2025-08-11 03:30:40,093 - INFO - Trying PDF URL: https://clerkweb.summitoh.net/PublicSite/Documents/vola0000004600001ECD.pdf
+2025-08-11 03:30:42,085 - INFO - PDF URL response: 200, Content-Type: application/pdf, Size: 282100
+2025-08-11 03:30:42,118 - INFO - Successfully downloaded PDF: vola0000004600001ECD_Foreclosure_Complaint.pdf (282100 bytes)
+2025-08-11 03:30:42,120 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3689_08_08_2025\case_metadata.json
+2025-08-11 03:30:42,121 - INFO - Saved 4 processed cases
+2025-08-11 03:30:42,121 - INFO - Successfully processed case: CV-2025-08-3689
+2025-08-11 03:30:44,122 - INFO - Processing case: CV-2025-08-3690
+2025-08-11 03:30:44,122 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3690_08_08_2025
+2025-08-11 03:30:44,122 - INFO - Getting details for case: CV-2025-08-3690
+2025-08-11 03:30:47,507 - INFO - Clicked on document tab
+2025-08-11 03:30:49,522 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3690_08_08_2025\case_details.json
+2025-08-11 03:30:49,522 - INFO - Downloading foreclosure complaint: vola0000004600001ED5
+2025-08-11 03:30:49,537 - INFO - Trying PDF URL: https://clerkweb.summitoh.net/PublicSite/Documents/vola0000004600001ED5.pdf
+2025-08-11 03:30:51,583 - INFO - PDF URL response: 200, Content-Type: application/pdf, Size: 276451
+2025-08-11 03:30:51,596 - INFO - Successfully downloaded PDF: vola0000004600001ED5_Foreclosure_Complaint.pdf (276451 bytes)
+2025-08-11 03:30:51,598 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3690_08_08_2025\case_metadata.json
+2025-08-11 03:30:51,599 - INFO - Saved 5 processed cases
+2025-08-11 03:30:51,599 - INFO - Successfully processed case: CV-2025-08-3690
+2025-08-11 03:30:53,600 - INFO - Processing case: CV-2025-08-3691
+2025-08-11 03:30:53,600 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3691_08_08_2025
+2025-08-11 03:30:53,600 - INFO - Getting details for case: CV-2025-08-3691
+2025-08-11 03:30:57,063 - INFO - Clicked on document tab
+2025-08-11 03:30:59,080 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3691_08_08_2025\case_details.json
+2025-08-11 03:30:59,080 - INFO - Downloading foreclosure complaint: vola0000004600001F02
+2025-08-11 03:30:59,096 - INFO - Trying PDF URL: https://clerkweb.summitoh.net/PublicSite/Documents/vola0000004600001F02.pdf
+2025-08-11 03:31:01,166 - INFO - PDF URL response: 200, Content-Type: application/pdf, Size: 282237
+2025-08-11 03:31:01,181 - INFO - Successfully downloaded PDF: vola0000004600001F02_Foreclosure_Complaint.pdf (282237 bytes)
+2025-08-11 03:31:01,191 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3691_08_08_2025\case_metadata.json
+2025-08-11 03:31:01,192 - INFO - Saved 6 processed cases
+2025-08-11 03:31:01,192 - INFO - Successfully processed case: CV-2025-08-3691
+2025-08-11 03:31:03,193 - INFO - Processing case: CV-2025-08-3693
+2025-08-11 03:31:03,193 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3693_08_08_2025
+2025-08-11 03:31:03,193 - INFO - Getting details for case: CV-2025-08-3693
+2025-08-11 03:31:06,649 - INFO - Clicked on document tab
+2025-08-11 03:31:08,672 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3693_08_08_2025\case_details.json
+2025-08-11 03:31:08,672 - INFO - Downloading foreclosure complaint: vola000000460000244C
+2025-08-11 03:31:08,680 - INFO - Trying PDF URL: https://clerkweb.summitoh.net/PublicSite/Documents/vola000000460000244C.pdf
+2025-08-11 03:31:12,064 - INFO - PDF URL response: 200, Content-Type: application/pdf, Size: 6608665
+2025-08-11 03:31:12,080 - INFO - Successfully downloaded PDF: vola000000460000244C_Foreclosure_Complaint.pdf (6608665 bytes)
+2025-08-11 03:31:12,083 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3693_08_08_2025\case_metadata.json
+2025-08-11 03:31:12,084 - INFO - Saved 7 processed cases
+2025-08-11 03:31:12,084 - INFO - Successfully processed case: CV-2025-08-3693
+2025-08-11 03:31:14,085 - INFO - Processing case: CV-2025-08-3694
+2025-08-11 03:31:14,085 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3694_08_08_2025
+2025-08-11 03:31:14,085 - INFO - Getting details for case: CV-2025-08-3694
+2025-08-11 03:31:32,811 - WARNING - Could not click document tab: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff63b14e415+77285]
+	GetHandleVerifier [0x0x7ff63b14e470+77376]
+	(No symbol) [0x0x7ff63af19a6a]
+	(No symbol) [0x0x7ff63af70406]
+	(No symbol) [0x0x7ff63af706bc]
+	(No symbol) [0x0x7ff63afc3ac7]
+	(No symbol) [0x0x7ff63af9864f]
+	(No symbol) [0x0x7ff63afc087f]
+	(No symbol) [0x0x7ff63af983e3]
+	(No symbol) [0x0x7ff63af61521]
+	(No symbol) [0x0x7ff63af622b3]
+	GetHandleVerifier [0x0x7ff63b431efd+3107021]
+	GetHandleVerifier [0x0x7ff63b42c29d+3083373]
+	GetHandleVerifier [0x0x7ff63b44bedd+3213485]
+	GetHandleVerifier [0x0x7ff63b16884e+184862]
+	GetHandleVerifier [0x0x7ff63b17055f+216879]
+	GetHandleVerifier [0x0x7ff63b157084+113236]
+	GetHandleVerifier [0x0x7ff63b157239+113673]
+	GetHandleVerifier [0x0x7ff63b13e298+11368]
+	BaseThreadInitThunk [0x0x7ff84d18257d+29]
+	RtlUserThreadStart [0x0x7ff84e7aaf08+40]
+
+2025-08-11 03:31:32,814 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3694_08_08_2025\case_details.json
+2025-08-11 03:31:32,814 - INFO - Downloading foreclosure complaint: vola000000460000245A
+2025-08-11 03:31:32,832 - INFO - Trying PDF URL: https://clerkweb.summitoh.net/PublicSite/Documents/vola000000460000245A.pdf
+2025-08-11 03:31:36,022 - INFO - PDF URL response: 200, Content-Type: application/pdf, Size: 5583444
+2025-08-11 03:31:36,022 - INFO - Successfully downloaded PDF: vola000000460000245A_Foreclosure_Complaint.pdf (5583444 bytes)
+2025-08-11 03:31:36,040 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3694_08_08_2025\case_metadata.json
+2025-08-11 03:31:36,042 - INFO - Saved 8 processed cases
+2025-08-11 03:31:36,042 - INFO - Successfully processed case: CV-2025-08-3694
+2025-08-11 03:31:38,043 - INFO - Processing case: CV-2025-08-3696
+2025-08-11 03:31:38,043 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3696_08_08_2025
+2025-08-11 03:31:38,043 - INFO - Getting details for case: CV-2025-08-3696
+2025-08-11 03:31:56,802 - WARNING - Could not click document tab: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff63b14e415+77285]
+	GetHandleVerifier [0x0x7ff63b14e470+77376]
+	(No symbol) [0x0x7ff63af19a6a]
+	(No symbol) [0x0x7ff63af70406]
+	(No symbol) [0x0x7ff63af706bc]
+	(No symbol) [0x0x7ff63afc3ac7]
+	(No symbol) [0x0x7ff63af9864f]
+	(No symbol) [0x0x7ff63afc087f]
+	(No symbol) [0x0x7ff63af983e3]
+	(No symbol) [0x0x7ff63af61521]
+	(No symbol) [0x0x7ff63af622b3]
+	GetHandleVerifier [0x0x7ff63b431efd+3107021]
+	GetHandleVerifier [0x0x7ff63b42c29d+3083373]
+	GetHandleVerifier [0x0x7ff63b44bedd+3213485]
+	GetHandleVerifier [0x0x7ff63b16884e+184862]
+	GetHandleVerifier [0x0x7ff63b17055f+216879]
+	GetHandleVerifier [0x0x7ff63b157084+113236]
+	GetHandleVerifier [0x0x7ff63b157239+113673]
+	GetHandleVerifier [0x0x7ff63b13e298+11368]
+	BaseThreadInitThunk [0x0x7ff84d18257d+29]
+	RtlUserThreadStart [0x0x7ff84e7aaf08+40]
+
+2025-08-11 03:31:56,832 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3696_08_08_2025\case_details.json
+2025-08-11 03:31:56,832 - INFO - Downloading foreclosure complaint: vola00000046000026EF
+2025-08-11 03:31:56,844 - INFO - Trying PDF URL: https://clerkweb.summitoh.net/PublicSite/Documents/vola00000046000026EF.pdf
+2025-08-11 03:31:59,817 - INFO - PDF URL response: 200, Content-Type: application/pdf, Size: 2649432
+2025-08-11 03:31:59,851 - INFO - Successfully downloaded PDF: vola00000046000026EF_Foreclosure_Complaint.pdf (2649432 bytes)
+2025-08-11 03:31:59,854 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3696_08_08_2025\case_metadata.json
+2025-08-11 03:31:59,856 - INFO - Saved 9 processed cases
+2025-08-11 03:31:59,856 - INFO - Successfully processed case: CV-2025-08-3696
+2025-08-11 03:32:01,857 - INFO - Processing case: CV-2025-08-3701
+2025-08-11 03:32:01,857 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3701_08_08_2025
+2025-08-11 03:32:01,857 - INFO - Getting details for case: CV-2025-08-3701
+2025-08-11 03:32:20,672 - WARNING - Could not click document tab: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff63b14e415+77285]
+	GetHandleVerifier [0x0x7ff63b14e470+77376]
+	(No symbol) [0x0x7ff63af19a6a]
+	(No symbol) [0x0x7ff63af70406]
+	(No symbol) [0x0x7ff63af706bc]
+	(No symbol) [0x0x7ff63afc3ac7]
+	(No symbol) [0x0x7ff63af9864f]
+	(No symbol) [0x0x7ff63afc087f]
+	(No symbol) [0x0x7ff63af983e3]
+	(No symbol) [0x0x7ff63af61521]
+	(No symbol) [0x0x7ff63af622b3]
+	GetHandleVerifier [0x0x7ff63b431efd+3107021]
+	GetHandleVerifier [0x0x7ff63b42c29d+3083373]
+	GetHandleVerifier [0x0x7ff63b44bedd+3213485]
+	GetHandleVerifier [0x0x7ff63b16884e+184862]
+	GetHandleVerifier [0x0x7ff63b17055f+216879]
+	GetHandleVerifier [0x0x7ff63b157084+113236]
+	GetHandleVerifier [0x0x7ff63b157239+113673]
+	GetHandleVerifier [0x0x7ff63b13e298+11368]
+	BaseThreadInitThunk [0x0x7ff84d18257d+29]
+	RtlUserThreadStart [0x0x7ff84e7aaf08+40]
+
+2025-08-11 03:32:20,706 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3701_08_08_2025\case_details.json
+2025-08-11 03:32:20,706 - INFO - Downloading foreclosure complaint: vola0000004600002875
+2025-08-11 03:32:20,714 - INFO - Trying PDF URL: https://clerkweb.summitoh.net/PublicSite/Documents/vola0000004600002875.pdf
+2025-08-11 03:32:23,904 - INFO - PDF URL response: 200, Content-Type: application/pdf, Size: 4621839
+2025-08-11 03:32:23,943 - INFO - Successfully downloaded PDF: vola0000004600002875_Foreclosure_Complaint.pdf (4621839 bytes)
+2025-08-11 03:32:23,948 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3701_08_08_2025\case_metadata.json
+2025-08-11 03:32:23,948 - INFO - Saved 10 processed cases
+2025-08-11 03:32:23,951 - INFO - Successfully processed case: CV-2025-08-3701
+2025-08-11 03:32:25,952 - INFO - Monitoring cycle complete:
+2025-08-11 03:32:25,952 - INFO -   Total cases found: 10
+2025-08-11 03:32:25,952 - INFO -   New cases: 10
+2025-08-11 03:32:25,952 - INFO -   Successfully processed: 10
+2025-08-11 03:32:25,952 - INFO -   Failed cases: 0
+2025-08-11 03:32:25,952 - INFO - Waiting 1.0 hours before next check...
+2025-08-11 03:34:30,043 - INFO - Monitoring stopped by user
+2025-08-11 03:34:30,092 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/2c849a2921ff16e613204af503dd1f19
+2025-08-11 03:34:32,140 - INFO - 
+Automation stopped by user
+2025-08-11 03:34:32,140 - INFO - Foreclosure automation ended
