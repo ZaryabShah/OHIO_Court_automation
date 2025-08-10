@@ -1,0 +1,187 @@
+{
+  "basic_info": {
+    "case_caption": "KRISTEN M. SCALISE VS RANDY STOUT",
+    "case_number": "CV-2025-08-3687",
+    "file_date": "08/08/2025",
+    "case_type": "FORECLOSURE",
+    "judge": "TAMMY O'BRIEN"
+  },
+  "parties": {
+    "plaintiffs": [
+      {
+        "name": "SCALISE, KRISTEN",
+        "address": "175 S. MAIN STREET\n\nAKRON, OH 44308",
+        "attorney_name": "",
+        "attorney_address": "",
+        "party_type": "plaintiff"
+      }
+    ],
+    "defendants": [
+      {
+        "name": "STOUT, RANDY",
+        "address": "2465 TYRO AVE\n\nAKRON, OH 44305",
+        "attorney_name": "",
+        "attorney_address": "",
+        "party_type": "defendant"
+      }
+    ]
+  },
+  "docket_entries": [
+    {
+      "date": "08/08/2025",
+      "filed_by": "SCALISE, KRISTEN",
+      "description": "SUMMONS ISSUED BY CERTIFIED MAIL BY Certified Mail STOUT, RANDY",
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        000025B6",
+      "document_text": "View Document",
+      "has_document": true,
+      "document_id": "vola00000046000025B6",
+      "raw_document_id": "vola00000046        000025B6"
+    },
+    {
+      "date": "08/08/2025",
+      "filed_by": "LAKIC, UNA",
+      "description": "CERTIFICATE OF READINESS.",
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        00001EAE",
+      "document_text": "View Document",
+      "has_document": true,
+      "document_id": "vola0000004600001EAE",
+      "raw_document_id": "vola00000046        00001EAE"
+    },
+    {
+      "date": "08/08/2025",
+      "filed_by": "LAKIC, UNA",
+      "description": "FORECLOSURE COMPLAINT",
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        00001EAF",
+      "document_text": "View Document",
+      "has_document": true,
+      "document_id": "vola0000004600001EAF",
+      "raw_document_id": "vola00000046        00001EAF"
+    },
+    {
+      "date": "08/08/2025",
+      "filed_by": "LAKIC, UNA",
+      "description": "INSTRUCTIONS TO CLERK FOR SERVICE",
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        00001EB0",
+      "document_text": "View Document",
+      "has_document": true,
+      "document_id": "vola0000004600001EB0",
+      "raw_document_id": "vola00000046        00001EB0"
+    },
+    {
+      "date": "08/08/2025",
+      "filed_by": "LAKIC, UNA",
+      "description": "PRELIMINARY JUDICIAL REPORT.",
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        00001EB1",
+      "document_text": "View Document",
+      "has_document": true,
+      "document_id": "vola0000004600001EB1",
+      "raw_document_id": "vola00000046        00001EB1"
+    },
+    {
+      "date": "08/08/2025",
+      "filed_by": "LAKIC, UNA",
+      "description": "NOTICE OF APPEARANCE",
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        00001EB2",
+      "document_text": "View Document",
+      "has_document": true,
+      "document_id": "vola0000004600001EB2",
+      "raw_document_id": "vola00000046        00001EB2"
+    },
+    {
+      "date": "08/08/2025",
+      "filed_by": "LAKIC, UNA",
+      "description": "TITLE INVOICE",
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        00001EB3",
+      "document_text": "View Document",
+      "has_document": true,
+      "document_id": "vola0000004600001EB3",
+      "raw_document_id": "vola00000046        00001EB3"
+    }
+  ],
+  "judges_magistrates": [
+    {
+      "name": "08/08/2025",
+      "role": "",
+      "date": "O'BRIEN, TAMMY"
+    }
+  ],
+  "service_records": [
+    {
+      "party_name": "STOUT, RANDY2465 TYRO AVE\nAKRON OH 44305-",
+      "address": "STOUT, RANDY",
+      "issued_date": "2465 TYRO AVE\nAKRON OH 44305-",
+      "served_date": "08/08/2025",
+      "service_type": "",
+      "method": "",
+      "fedex_tracking": "",
+      "usps_tracking": "",
+      "tracking_number": "Sent",
+      "document_link": "",
+      "has_document": false
+    }
+  ],
+  "documents": [
+    {
+      "index": 1,
+      "link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        000025B6",
+      "text": "View Document",
+      "document_id": "vola00000046000025B6",
+      "context": "08/08/2025SCALISE, KRISTENSUMMONS ISSUED BY CERTIFIED MAIL BY Certified Mail STOUT, RANDYView Document",
+      "raw_document_id": "vola00000046        000025B6"
+    },
+    {
+      "index": 2,
+      "link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        00001EAE",
+      "text": "View Document",
+      "document_id": "vola0000004600001EAE",
+      "context": "08/08/2025LAKIC, UNACERTIFICATE OF READINESS.View Document",
+      "raw_document_id": "vola00000046        00001EAE"
+    },
+    {
+      "index": 3,
+      "link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        00001EAF",
+      "text": "View Document",
+      "document_id": "vola0000004600001EAF",
+      "context": "08/08/2025LAKIC, UNAFORECLOSURE COMPLAINTView Document",
+      "raw_document_id": "vola00000046        00001EAF"
+    },
+    {
+      "index": 4,
+      "link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        00001EB0",
+      "text": "View Document",
+      "document_id": "vola0000004600001EB0",
+      "context": "08/08/2025LAKIC, UNAINSTRUCTIONS TO CLERK FOR SERVICEView Document",
+      "raw_document_id": "vola00000046        00001EB0"
+    },
+    {
+      "index": 5,
+      "link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        00001EB1",
+      "text": "View Document",
+      "document_id": "vola0000004600001EB1",
+      "context": "08/08/2025LAKIC, UNAPRELIMINARY JUDICIAL REPORT.View Document",
+      "raw_document_id": "vola00000046        00001EB1"
+    },
+    {
+      "index": 6,
+      "link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        00001EB2",
+      "text": "View Document",
+      "document_id": "vola0000004600001EB2",
+      "context": "08/08/2025LAKIC, UNANOTICE OF APPEARANCEView Document",
+      "raw_document_id": "vola00000046        00001EB2"
+    },
+    {
+      "index": 7,
+      "link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        00001EB3",
+      "text": "View Document",
+      "document_id": "vola0000004600001EB3",
+      "context": "08/08/2025LAKIC, UNATITLE INVOICEView Document",
+      "raw_document_id": "vola00000046        00001EB3"
+    }
+  ],
+  "metadata": {
+    "parsed_at": "2025-08-11T00:11:11.642496",
+    "total_docket_entries": 7,
+    "total_documents": 7,
+    "total_service_records": 1
+  }
+}

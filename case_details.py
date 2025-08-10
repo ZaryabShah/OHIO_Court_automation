@@ -6,7 +6,7 @@ from datetime import datetime
 import json
 from curl_cffi import requests
 
-URL = "https://clerkweb.summitoh.net/PublicSite/CaseDetail.aspx?CaseNo=CV-2024-08-3427&Suffix=&Type="
+URL = "https://clerkweb.summitoh.net/PublicSite/CaseDetail.aspx?CaseNo=CV-2025-08-3687&Suffix=&Type="
 
 HEADERS = {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
