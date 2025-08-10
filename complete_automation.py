@@ -257,7 +257,22 @@ class CompleteForeClosureAutomation:
             self.driver.get(case_info['full_url'])
             time.sleep(3)
             
-            # Get page HTML
+            # Click on the specified element to access documents
+            try:
+                document_tab = self.wait.until(
+                    EC.element_to_be_clickable((
+                        By.XPATH,
+                        "/html/body/table[2]/tbody/tr[1]/td/form/table/tbody/tr/td/table/tbody/tr[2]/td/table/tbody/tr[3]/td/div/table/tbody/tr[1]/td/table/tbody/tr/td[2]"
+                    ))
+                )
+                document_tab.click()
+                logger.info("Clicked on document tab")
+                time.sleep(2)  # Wait 2 seconds as requested
+                
+            except Exception as e:
+                logger.warning(f"Could not click document tab: {e}")
+            
+            # Get page HTML after clicking
             html_content = self.driver.page_source
             
             # Parse case details
@@ -361,6 +376,7 @@ class CompleteForeClosureAutomation:
             
             logger.info(f"Downloading foreclosure complaint: {document_info['document_id']}")
             
+            # First try direct PDF download
             response = self.session.get(pdf_url, timeout=30)
             
             if response.status_code == 200:
@@ -374,19 +390,30 @@ class CompleteForeClosureAutomation:
                     
                     logger.info(f"Successfully downloaded: {filename} ({len(response.content)} bytes)")
                     return True
-                else:
-                    logger.warning("Response is not a PDF, trying DisplayImage.asp URL")
-                    # Try original URL as fallback
-                    response = self.session.get(document_info['document_link'], timeout=30)
-                    if response.status_code == 200:
-                        filename = f"{document_info['document_id']}_Foreclosure_Complaint.html"
-                        filepath = os.path.join(folder_path, filename)
-                        
-                        with open(filepath, 'wb') as f:
-                            f.write(response.content)
-                        
-                        logger.info(f"Downloaded as HTML: {filename}")
-                        return True
+            
+            # If direct PDF fails, try using browser to download the document
+            logger.info("Direct PDF download failed, trying browser download...")
+            
+            try:
+                # Navigate to the document link using the browser
+                self.driver.get(document_info['document_link'])
+                time.sleep(3)
+                
+                # Get the page source after loading the document
+                doc_content = self.driver.page_source
+                
+                # Save as HTML if it's not a PDF
+                filename = f"{document_info['document_id']}_Foreclosure_Complaint.html"
+                filepath = os.path.join(folder_path, filename)
+                
+                with open(filepath, 'w', encoding='utf-8') as f:
+                    f.write(doc_content)
+                
+                logger.info(f"Downloaded document as HTML: {filename}")
+                return True
+                
+            except Exception as browser_error:
+                logger.error(f"Browser download also failed: {browser_error}")
             
             logger.error(f"Failed to download document: HTTP {response.status_code}")
             return False
@@ -535,8 +562,8 @@ class CompleteForeClosureAutomation:
         try:
             while True:
                 # Get today's date
-                today = datetime.now().strftime("%m/%d/%Y")
-                
+                # today = datetime.now().strftime("%m/%d/%Y")
+                today = "08/08/2025"
                 logger.info(f"Starting monitoring cycle for {today}")
                 
                 try:

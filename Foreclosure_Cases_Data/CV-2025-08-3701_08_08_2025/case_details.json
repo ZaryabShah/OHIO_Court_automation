@@ -1,0 +1,57 @@
+{
+  "basic_info": {
+    "case_caption": "RUSHMORE LOAN MANAGEMENT SERVICES LLC VS BRITTANY TOLES",
+    "case_number": "CV-2025-08-3701",
+    "file_date": "08/08/2025",
+    "case_type": "FORECLOSURE",
+    "judge": "ALISON E. MCCARTY"
+  },
+  "parties": {
+    "plaintiffs": [],
+    "defendants": []
+  },
+  "docket_entries": [
+    {
+      "date": "08/08/2025",
+      "filed_by": "LEMBRIGHT, MARK",
+      "description": "CERTIFICATE OF READINESS.",
+      "has_document": true,
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        00002874",
+      "document_id": "vola0000004600002874",
+      "raw_document_id": "vola00000046        00002874"
+    },
+    {
+      "date": "08/08/2025",
+      "filed_by": "LEMBRIGHT, MARK",
+      "description": "FORECLOSURE COMPLAINT",
+      "has_document": true,
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        00002875",
+      "document_id": "vola0000004600002875",
+      "raw_document_id": "vola00000046        00002875"
+    },
+    {
+      "date": "08/08/2025",
+      "filed_by": "LEMBRIGHT, MARK",
+      "description": "INSTRUCTIONS TO CLERK FOR SERVICE",
+      "has_document": true,
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        00002876",
+      "document_id": "vola0000004600002876",
+      "raw_document_id": "vola00000046        00002876"
+    },
+    {
+      "date": "08/08/2025",
+      "filed_by": "LEMBRIGHT, MARK",
+      "description": "PRELIMINARY JUDICIAL REPORT.",
+      "has_document": true,
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        00002877",
+      "document_id": "vola0000004600002877",
+      "raw_document_id": "vola00000046        00002877"
+    }
+  ],
+  "documents": [],
+  "metadata": {
+    "parsed_at": "2025-08-11T01:33:41.869819",
+    "source_url": "https://clerkweb.summitoh.net/PublicSite/CaseDetail.aspx?CaseNo=CV-2025-08-3701&Suffix=&Type=",
+    "total_docket_entries": 4
+  }
+}

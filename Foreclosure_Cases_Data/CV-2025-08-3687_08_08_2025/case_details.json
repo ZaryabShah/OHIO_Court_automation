@@ -1,0 +1,84 @@
+{
+  "basic_info": {
+    "case_caption": "KRISTEN M. SCALISE VS RANDY STOUT",
+    "case_number": "CV-2025-08-3687",
+    "file_date": "08/08/2025",
+    "case_type": "FORECLOSURE",
+    "judge": "TAMMY O'BRIEN"
+  },
+  "parties": {
+    "plaintiffs": [],
+    "defendants": []
+  },
+  "docket_entries": [
+    {
+      "date": "08/08/2025",
+      "filed_by": "SCALISE, KRISTEN",
+      "description": "SUMMONS ISSUED BY CERTIFIED MAIL BY Certified Mail STOUT, RANDY",
+      "has_document": true,
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        000025B6",
+      "document_id": "vola00000046000025B6",
+      "raw_document_id": "vola00000046        000025B6"
+    },
+    {
+      "date": "08/08/2025",
+      "filed_by": "LAKIC, UNA",
+      "description": "CERTIFICATE OF READINESS.",
+      "has_document": true,
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        00001EAE",
+      "document_id": "vola0000004600001EAE",
+      "raw_document_id": "vola00000046        00001EAE"
+    },
+    {
+      "date": "08/08/2025",
+      "filed_by": "LAKIC, UNA",
+      "description": "FORECLOSURE COMPLAINT",
+      "has_document": true,
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        00001EAF",
+      "document_id": "vola0000004600001EAF",
+      "raw_document_id": "vola00000046        00001EAF"
+    },
+    {
+      "date": "08/08/2025",
+      "filed_by": "LAKIC, UNA",
+      "description": "INSTRUCTIONS TO CLERK FOR SERVICE",
+      "has_document": true,
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        00001EB0",
+      "document_id": "vola0000004600001EB0",
+      "raw_document_id": "vola00000046        00001EB0"
+    },
+    {
+      "date": "08/08/2025",
+      "filed_by": "LAKIC, UNA",
+      "description": "PRELIMINARY JUDICIAL REPORT.",
+      "has_document": true,
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        00001EB1",
+      "document_id": "vola0000004600001EB1",
+      "raw_document_id": "vola00000046        00001EB1"
+    },
+    {
+      "date": "08/08/2025",
+      "filed_by": "LAKIC, UNA",
+      "description": "NOTICE OF APPEARANCE",
+      "has_document": true,
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        00001EB2",
+      "document_id": "vola0000004600001EB2",
+      "raw_document_id": "vola00000046        00001EB2"
+    },
+    {
+      "date": "08/08/2025",
+      "filed_by": "LAKIC, UNA",
+      "description": "TITLE INVOICE",
+      "has_document": true,
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        00001EB3",
+      "document_id": "vola0000004600001EB3",
+      "raw_document_id": "vola00000046        00001EB3"
+    }
+  ],
+  "documents": [],
+  "metadata": {
+    "parsed_at": "2025-08-11T01:31:31.820915",
+    "source_url": "https://clerkweb.summitoh.net/PublicSite/CaseDetail.aspx?CaseNo=CV-2025-08-3687&Suffix=&Type=",
+    "total_docket_entries": 7
+  }
+}

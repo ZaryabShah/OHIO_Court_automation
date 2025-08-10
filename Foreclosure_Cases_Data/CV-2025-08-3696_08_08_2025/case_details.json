@@ -1,0 +1,66 @@
+{
+  "basic_info": {
+    "case_caption": "LOANDEPOT.COM, LLC VS GERALD BURMEISTER",
+    "case_number": "CV-2025-08-3696",
+    "file_date": "08/08/2025",
+    "case_type": "FORECLOSURE",
+    "judge": "SUSAN BAKER ROSS"
+  },
+  "parties": {
+    "plaintiffs": [],
+    "defendants": []
+  },
+  "docket_entries": [
+    {
+      "date": "08/08/2025",
+      "filed_by": "FOSTER, ADRIENNE",
+      "description": "CERTIFICATE OF READINESS.",
+      "has_document": true,
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        000026EE",
+      "document_id": "vola00000046000026EE",
+      "raw_document_id": "vola00000046        000026EE"
+    },
+    {
+      "date": "08/08/2025",
+      "filed_by": "FOSTER, ADRIENNE",
+      "description": "FORECLOSURE COMPLAINT",
+      "has_document": true,
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        000026EF",
+      "document_id": "vola00000046000026EF",
+      "raw_document_id": "vola00000046        000026EF"
+    },
+    {
+      "date": "08/08/2025",
+      "filed_by": "FOSTER, ADRIENNE",
+      "description": "INSTRUCTIONS TO CLERK FOR SERVICE",
+      "has_document": true,
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        000026F0",
+      "document_id": "vola00000046000026F0",
+      "raw_document_id": "vola00000046        000026F0"
+    },
+    {
+      "date": "08/08/2025",
+      "filed_by": "FOSTER, ADRIENNE",
+      "description": "PRELIMINARY JUDICIAL REPORT.",
+      "has_document": true,
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        000026F1",
+      "document_id": "vola00000046000026F1",
+      "raw_document_id": "vola00000046        000026F1"
+    },
+    {
+      "date": "08/08/2025",
+      "filed_by": "FOSTER, ADRIENNE",
+      "description": "WRITTEN REQUEST FOR SERVICE OF SUMMONS AND AMENDED COMPLAINT",
+      "has_document": true,
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        000026F2",
+      "document_id": "vola00000046000026F2",
+      "raw_document_id": "vola00000046        000026F2"
+    }
+  ],
+  "documents": [],
+  "metadata": {
+    "parsed_at": "2025-08-11T01:33:16.641193",
+    "source_url": "https://clerkweb.summitoh.net/PublicSite/CaseDetail.aspx?CaseNo=CV-2025-08-3696&Suffix=&Type=",
+    "total_docket_entries": 5
+  }
+}
