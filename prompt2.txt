@@ -1,0 +1,28 @@
+by using summit_county_scraper and summit_county_parser I got the parsed_cases json as an output
+!
+than I use case_details.py and case_details_parser.py 
+to get case_details json as output!
+where I get much of needed info for each case I want!
+than I use foreclosure_complaint_downloader.py
+to get the pdf document of foreclosure complaint!
+which seems to be endgoal for now!
+
+now here is what I want to make exactly by using this!
+
+I want a complete pipeline that I will get all cases for today and keep checking after one hour for new cases!
+we save all cases in json file as found cases and save them in json so we may not find them again and again! 
+so at first go we will save each case no. as done in json file when we have downloaded its document of foreclosure complaint!  
+
+so basically we will find all cases and save them as got and than one by one we go and find each case details and than without closing its browser we will also download its foreclosure complaint document too and save all the data as soon we found it!
+we will download each document when its detail page would be opened coz it is only downloaded when the case detail page of website is open in browser!
+so once we downloaded we will move forward for second case and remember we will not close our browser during all this and I know we only need browser for finding case numbers and than all the next steps are in requests but we keep it open so we can download the documents!
+whenever we saved all data and documents we will sleep for 1 hour and after one hour we will check for new entries as soon they appear!
+and if any new or not done status case number found we will 
+do the whole process for that one too!
+than so on!
+I want you to make a one file that does all this!
+also one more thing that we will make one folder for each case no. at start after finding cases with its date and case no. as its name!
+so we keep putting all data in their respective folders as soon it is found like case details and its document and all!
+now make me a complete working file!
+that does everything exactly I asked for !
+Use already made scrapers or make a complete new its all up to you but I want it to be perfect!
