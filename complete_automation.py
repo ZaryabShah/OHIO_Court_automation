@@ -51,7 +51,7 @@ logger = logging.getLogger(__name__)
 class CompleteForeClosureAutomation:
     """Complete automation pipeline for Summit County foreclosure cases"""
     
-    def __init__(self, headless=False, check_interval_hours=0.5):
+    def __init__(self, headless=True, check_interval_hours=0.5):
         self.base_url = "https://clerkweb.summitoh.net/PublicSite/"
         self.check_interval = check_interval_hours * 3600  # Convert to seconds
         self.headless = headless
