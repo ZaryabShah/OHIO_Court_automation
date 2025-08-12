@@ -1,0 +1,42 @@
+{
+  "file": "vola0000004600001EAF_Foreclosure_Complaint.pdf",
+  "case_number": "CV-2025-08-3687",
+  "court": "Court Of Common Pleas",
+  "county": "Summit",
+  "filing_datetime": "2025-08-08T07:02:46",
+  "plaintiff": "KRISTEN M. SCALISE",
+  "defendants": [
+    "RANDY D. STOUT"
+  ],
+  "property_address": "2465 TYRO AVE AKRON, OH 44305",
+  "parcel_number": "68-36320",
+  "lien_holder": "NAR Ohio",
+  "tax_certificate_number": "6836320-23",
+  "tax_certificate_sale_date": null,
+  "redemption_price": 8056.37,
+  "redemption_good_through": "July 2025",
+  "interest_rate_percent": null,
+  "statutes": [
+    "R.C.5721.19",
+    "R.C.5721.37",
+    "R.C.5721.38",
+    "R.C.5721.39"
+  ],
+  "relief_requested": [
+    "Foreclosure of liens"
+  ],
+  "exhibits": [
+    "A"
+  ],
+  "attorney": {
+    "prosecutor_name": "ELLIOT KOLKOVICH",
+    "office": "Summit County Prosecutor",
+    "assistant_name": "Una Lakic",
+    "bar_number": "6836320",
+    "title": "Assistant Prosecuting Attorney",
+    "address": "53 University Avenue, 7th Floor",
+    "phone": "(330) 643-8321",
+    "email": "ulakic@prosecutor.summitoh.net"
+  },
+  "raw_excerpt": "CV-2025-08-3687 O'BRIEN, TAMMY 8/8/2025 7:02:46 AM FORC Page 1 of 6 IN THE COURT OF COMMON PLEAS SUMMIT COUNTY, OHIO KRISTEN M. SCALISE, As Fiscal Officer, Summit County, Ohio Plaintiff vs. RANDY D. STOUT 2465 TYRO AVE AKRON, OH 44305 Defendant(s) CASE NUMBER: JUDGE: COMPLAINT TAX LIEN FORECLOSURE To foreclose the lien vested in NAR Ohio, LLC Certificate Number(s): 6836320-23 Permanent Parcel Number: 68-36320 PROPERTY ADDRESS: 2465 TYRO AVE AKRON, OH 44305 FIRST CLAIM FOR RELIEF 1. The Plaintiff..."
+}

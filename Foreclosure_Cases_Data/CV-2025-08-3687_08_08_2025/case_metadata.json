@@ -2,10 +2,11 @@
   "case_number": "CV-2025-08-3687",
   "case_caption": "KRISTEN M. SCALISE VS RANDY STOUT",
   "filing_date": "08/08/2025",
-  "processed_at": "2025-08-12T08:37:45.062762",
+  "processed_at": "2025-08-12T08:48:25.333700",
   "folder_path": "Foreclosure_Cases_Data\\CV-2025-08-3687_08_08_2025",
   "case_url": "https://clerkweb.summitoh.net/PublicSite/CaseDetail.aspx?CaseNo=CV-2025-08-3687&Suffix=&Type=",
   "has_case_details": true,
   "foreclosure_complaint_downloaded": true,
+  "foreclosure_complaint_parsed": true,
   "total_docket_entries": 7
 }

@@ -1,0 +1,44 @@
+{
+  "file": "vola0000004600001F02_Foreclosure_Complaint.pdf",
+  "case_number": "CV-2025-08-3691",
+  "court": "Court Of Common Pleas",
+  "county": "Summit",
+  "filing_datetime": "2025-08-08T07:41:33",
+  "plaintiff": "KRISTEN M. SCALISE",
+  "defendants": [
+    "OANH VO",
+    "OHIO DEPARTMENT OF TAXATION",
+    "UNITED STATES OF AMERICA"
+  ],
+  "property_address": "589 COLE AVE., AKRON, OH 44301",
+  "parcel_number": "67-44672",
+  "lien_holder": "NAR Ohio",
+  "tax_certificate_number": "6744672-23",
+  "tax_certificate_sale_date": null,
+  "redemption_price": 8528.95,
+  "redemption_good_through": "August 2025",
+  "interest_rate_percent": null,
+  "statutes": [
+    "R.C.5721.19",
+    "R.C.5721.37",
+    "R.C.5721.38",
+    "R.C.5721.39"
+  ],
+  "relief_requested": [
+    "Foreclosure of liens"
+  ],
+  "exhibits": [
+    "A"
+  ],
+  "attorney": {
+    "prosecutor_name": "ELLIOT KOLKOVICH",
+    "office": "Summit County Prosecutor",
+    "assistant_name": "Una Lakic",
+    "bar_number": "6744672",
+    "title": "Assistant Prosecuting Attorney",
+    "address": "53 University Avenue, 7th Floor",
+    "phone": "(330) 643-8321",
+    "email": "ulakic@prosecutor.summitoh.net"
+  },
+  "raw_excerpt": "CV-2025-08-3691 ROWLANDS, MARY MARGARET 8/8/2025 7:41:33 AM FORC Page 1 of 6 IN THE COURT OF COMMON PLEAS SUMMIT COUNTY, OHIO KRISTEN M. SCALISE, As Fiscal Officer, Summit County, Ohio Plaintiff vs. OANH VO 589 COLE AVE AKRON, OH 44301 & 4536 GREENWOLD RD SOUTH EUCLID, OH 44121 OHIO DEPARTMENT OF TAXATION C/O OHIO ATTORNEY GENERAL 30 E. BROAD STREET, 14TH FLOOR COLUMBUS, OH 43215 UNITED STATES OF AMERICA C/O U.S. ATTORNEY 801 W. SUPERIOR AVE. STE. 400 CLEVELAND, OH 44113 & C/O U.S. ATTORNEY GENE..."
+}

@@ -1,0 +1,42 @@
+{
+  "file": "vola0000004600002875_Foreclosure_Complaint.pdf",
+  "case_number": "CV-2025-08-3701",
+  "court": "Court Of Common Pleas",
+  "county": "Summit",
+  "filing_datetime": "2025-08-08T13:16:53",
+  "plaintiff": "RUSHMORE LOAN MANAGEMENT SERVICES LLC",
+  "defendants": [
+    "BRITTANY TOLES",
+    "UNKNOWN SPOUSE, IF ANY, OF",
+    "UNITED STATES OF AMERICA",
+    "Tavia Galonski, Summit County Clerk of Courts"
+  ],
+  "property_address": "1231 COVENTRY STREET AKRON, OH 44306",
+  "parcel_number": "6835972",
+  "lien_holder": null,
+  "tax_certificate_number": null,
+  "tax_certificate_sale_date": null,
+  "redemption_price": 75891.02,
+  "redemption_good_through": null,
+  "interest_rate_percent": null,
+  "statutes": [
+    "R.C.5301.233"
+  ],
+  "relief_requested": [
+    "Foreclosure of liens"
+  ],
+  "exhibits": [
+    "A"
+  ],
+  "attorney": {
+    "prosecutor_name": null,
+    "office": null,
+    "assistant_name": "F. Peter Costello",
+    "bar_number": "6835972",
+    "title": null,
+    "address": "1231 COVENTRY STREET",
+    "phone": "(216) 588-1500",
+    "email": "OHContact@alaw.net"
+  },
+  "raw_excerpt": "CV-2025-08-3701 MCCARTY, ALISON E. 8/8/2025 1:16:53 PM FORC Page 1 of 45 COURT OF COMMON PLEAS SUMMIT COUNTY, OHIO RUSHMORE LOAN MANAGEMENT SERVICES LLC 8950 CYPRESS WATERS BLVD COPPELL, TX 75019 CASE NO: JUDGE: COMPLAINT FOR FORECLOSURE PPN# 6835972 AND 6835973 -vs- Plaintiff, BRITTANY TOLES 1231 COVENTRY STREET AKRON, OH 44306 -AND- UNKNOWN SPOUSE, IF ANY, OF BRITTANY TOLES 1231 COVENTRY STREET AKRON, OH 44306 -AND- UNITED STATES OF AMERICA ACTING THROUGH SECRETARY OF HOUSING AND URBAN DEVELOP..."
+}

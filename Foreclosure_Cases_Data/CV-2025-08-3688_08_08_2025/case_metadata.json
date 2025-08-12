@@ -2,10 +2,11 @@
   "case_number": "CV-2025-08-3688",
   "case_caption": "KRISTEN M. SCALISE VS AUTUMN TREJO",
   "filing_date": "08/08/2025",
-  "processed_at": "2025-08-12T08:37:55.444742",
+  "processed_at": "2025-08-12T08:48:34.917387",
   "folder_path": "Foreclosure_Cases_Data\\CV-2025-08-3688_08_08_2025",
   "case_url": "https://clerkweb.summitoh.net/PublicSite/CaseDetail.aspx?CaseNo=CV-2025-08-3688&Suffix=&Type=",
   "has_case_details": true,
   "foreclosure_complaint_downloaded": true,
+  "foreclosure_complaint_parsed": true,
   "total_docket_entries": 8
 }

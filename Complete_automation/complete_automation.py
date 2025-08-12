@@ -9,6 +9,7 @@ Features:
 - Tracks processed cases to avoid duplicates
 - Runs continuously with 1-hour intervals
 - Keeps browser open for document downloads
+- Enhanced PDF parsing with structured data extraction
 """
 
 import os
@@ -31,6 +32,9 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.keys import Keys
 
 from bs4 import BeautifulSoup
+
+# Import enhanced PDF parser
+from enhanced_pdf_parser import parse_pdf
 
 # Set up logging
 logging.basicConfig(
@@ -423,6 +427,10 @@ class CompleteForeClosureAutomation:
                             f.write(response.content)
                         
                         logger.info(f"Successfully downloaded PDF: {filename} ({len(response.content)} bytes)")
+                        
+                        # Parse the downloaded PDF
+                        self.parse_downloaded_pdf(filepath, folder_path)
+                        
                         return True
             except Exception as e:
                 logger.warning(f"PDF URL failed: {e}")
@@ -443,6 +451,10 @@ class CompleteForeClosureAutomation:
                             f.write(response.content)
                         
                         logger.info(f"Successfully downloaded PDF via DisplayImage: {filename} ({len(response.content)} bytes)")
+                        
+                        # Parse the downloaded PDF
+                        self.parse_downloaded_pdf(filepath, folder_path)
+                        
                         return True
                     else:
                         # Content is not PDF, save as HTML
@@ -482,6 +494,35 @@ class CompleteForeClosureAutomation:
             logger.error(f"Error converting URL: {e}")
             return display_image_url
     
+    def parse_downloaded_pdf(self, pdf_filepath: str, case_folder: str) -> bool:
+        """Parse downloaded PDF using enhanced parser and save results"""
+        try:
+            logger.info(f"Parsing PDF: {pdf_filepath}")
+            
+            # Use the enhanced PDF parser
+            parsed_data = parse_pdf(pdf_filepath)
+            
+            # Save parsed data as JSON
+            parsed_filename = "foreclosure_complaint_parsed.json"
+            parsed_filepath = os.path.join(case_folder, parsed_filename)
+            
+            with open(parsed_filepath, 'w', encoding='utf-8') as f:
+                json.dump(parsed_data, f, indent=2, ensure_ascii=False)
+            
+            logger.info(f"Successfully parsed and saved PDF data: {parsed_filepath}")
+            
+            # Log key extracted information
+            logger.info(f"  Plaintiff: {parsed_data.get('plaintiff', 'Not found')}")
+            logger.info(f"  Defendants: {len(parsed_data.get('defendants', []))} found")
+            logger.info(f"  Property Address: {parsed_data.get('property_address', 'Not found')}")
+            logger.info(f"  Redemption Price: ${parsed_data.get('redemption_price', 'Not found')}")
+            
+            return True
+            
+        except Exception as e:
+            logger.error(f"Error parsing PDF {pdf_filepath}: {e}")
+            return False
+    
     def save_case_data(self, case_data: Dict, folder_path: str):
         """Save case data to JSON file"""
         try:
@@ -499,6 +540,10 @@ class CompleteForeClosureAutomation:
     def save_case_metadata(self, case_info: Dict, case_data: Dict, download_result: bool, folder_path: str):
         """Save case metadata"""
         try:
+            # Check if PDF was parsed
+            parsed_file = os.path.join(folder_path, "foreclosure_complaint_parsed.json")
+            pdf_parsed = os.path.exists(parsed_file)
+            
             metadata = {
                 'case_number': case_info['case_number'],
                 'case_caption': case_info.get('case_caption', ''),
@@ -508,6 +553,7 @@ class CompleteForeClosureAutomation:
                 'case_url': case_info['full_url'],
                 'has_case_details': bool(case_data),
                 'foreclosure_complaint_downloaded': download_result,
+                'foreclosure_complaint_parsed': pdf_parsed,
                 'total_docket_entries': len(case_data.get('docket_entries', [])) if case_data else 0
             }
             
@@ -571,6 +617,8 @@ class CompleteForeClosureAutomation:
             'total_cases': len(cases),
             'new_cases': 0,
             'successfully_processed': 0,
+            'pdfs_downloaded': 0,
+            'pdfs_parsed': 0,
             'failed_cases': []
         }
         
@@ -589,6 +637,16 @@ class CompleteForeClosureAutomation:
             
             if success:
                 results['successfully_processed'] += 1
+                
+                # Check if PDF was downloaded and parsed
+                case_folder = self.create_case_folder(case_info)
+                pdf_files = [f for f in os.listdir(case_folder) if f.endswith('.pdf')]
+                parsed_files = [f for f in os.listdir(case_folder) if f == 'foreclosure_complaint_parsed.json']
+                
+                if pdf_files:
+                    results['pdfs_downloaded'] += 1
+                if parsed_files:
+                    results['pdfs_parsed'] += 1
             else:
                 results['failed_cases'].append(case_number)
             
@@ -620,6 +678,8 @@ class CompleteForeClosureAutomation:
                         logger.info(f"  Total cases found: {results['total_cases']}")
                         logger.info(f"  New cases: {results['new_cases']}")
                         logger.info(f"  Successfully processed: {results['successfully_processed']}")
+                        logger.info(f"  PDFs downloaded: {results['pdfs_downloaded']}")
+                        logger.info(f"  PDFs parsed: {results['pdfs_parsed']}")
                         logger.info(f"  Failed cases: {len(results['failed_cases'])}")
                         
                         if results['failed_cases']:

@@ -193,3 +193,235 @@ Automation stopped by user
 2025-08-12 08:46:34,267 - INFO - Created folder: Foreclosure_Cases_Data\DEMO-2025-08-TEST_08_12_2025
 2025-08-12 08:46:34,267 - INFO - Saved case metadata: Foreclosure_Cases_Data\DEMO-2025-08-TEST_08_12_2025\case_metadata.json
 2025-08-12 08:46:36,376 - INFO - Browser closed
+2025-08-12 08:47:54,653 - INFO - ============================================================
+2025-08-12 08:47:54,653 - INFO - SUMMIT COUNTY FORECLOSURE AUTOMATION STARTING
+2025-08-12 08:47:54,653 - INFO - ============================================================
+2025-08-12 08:47:54,653 - INFO - No previous processed cases found
+2025-08-12 08:47:55,926 - INFO - Browser initialized successfully
+2025-08-12 08:47:55,927 - INFO - Starting continuous foreclosure monitoring...
+2025-08-12 08:47:55,928 - INFO - Starting monitoring cycle for 08/08/2025
+2025-08-12 08:47:55,928 - INFO - Searching for foreclosure cases on 08/08/2025
+2025-08-12 08:48:07,553 - INFO - Found 11 cases for 08/08/2025
+2025-08-12 08:48:07,553 - INFO - Processing case: CV-2025-08-3686
+2025-08-12 08:48:07,553 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3686_08_08_2025
+2025-08-12 08:48:07,553 - INFO - Getting details for case: CV-2025-08-3686
+2025-08-12 08:48:11,487 - INFO - Clicked on document tab
+2025-08-12 08:48:13,496 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3686_08_08_2025\case_details.json
+2025-08-12 08:48:13,496 - INFO - Downloading foreclosure complaint: vola0000004600001EA1
+2025-08-12 08:48:13,515 - INFO - Trying PDF URL: https://clerkweb.summitoh.net/PublicSite/Documents/vola0000004600001EA1.pdf
+2025-08-12 08:48:15,494 - INFO - PDF URL response: 200, Content-Type: application/pdf, Size: 276596
+2025-08-12 08:48:15,510 - INFO - Successfully downloaded PDF: vola0000004600001EA1_Foreclosure_Complaint.pdf (276596 bytes)
+2025-08-12 08:48:15,526 - INFO - Parsing PDF: Foreclosure_Cases_Data\CV-2025-08-3686_08_08_2025\vola0000004600001EA1_Foreclosure_Complaint.pdf
+2025-08-12 08:48:15,728 - INFO - Successfully parsed and saved PDF data: Foreclosure_Cases_Data\CV-2025-08-3686_08_08_2025\foreclosure_complaint_parsed.json
+2025-08-12 08:48:15,728 - INFO -   Plaintiff: KRISTEN M. SCALISE
+2025-08-12 08:48:15,728 - INFO -   Defendants: 2 found
+2025-08-12 08:48:15,728 - INFO -   Property Address: 281 OXFORD AVE. AKRON, OH 44310
+2025-08-12 08:48:15,728 - INFO -   Redemption Price: $10221.61
+2025-08-12 08:48:15,728 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3686_08_08_2025\case_metadata.json
+2025-08-12 08:48:15,728 - INFO - Saved 1 processed cases
+2025-08-12 08:48:15,728 - INFO - Successfully processed case: CV-2025-08-3686
+2025-08-12 08:48:15,728 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3686_08_08_2025
+2025-08-12 08:48:17,741 - INFO - Processing case: CV-2025-08-3687
+2025-08-12 08:48:17,741 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3687_08_08_2025
+2025-08-12 08:48:17,741 - INFO - Getting details for case: CV-2025-08-3687
+2025-08-12 08:48:21,131 - INFO - Clicked on document tab
+2025-08-12 08:48:23,145 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3687_08_08_2025\case_details.json
+2025-08-12 08:48:23,145 - INFO - Downloading foreclosure complaint: vola0000004600001EAF
+2025-08-12 08:48:23,151 - INFO - Trying PDF URL: https://clerkweb.summitoh.net/PublicSite/Documents/vola0000004600001EAF.pdf
+2025-08-12 08:48:25,174 - INFO - PDF URL response: 200, Content-Type: application/pdf, Size: 275970
+2025-08-12 08:48:25,181 - INFO - Successfully downloaded PDF: vola0000004600001EAF_Foreclosure_Complaint.pdf (275970 bytes)
+2025-08-12 08:48:25,182 - INFO - Parsing PDF: Foreclosure_Cases_Data\CV-2025-08-3687_08_08_2025\vola0000004600001EAF_Foreclosure_Complaint.pdf
+2025-08-12 08:48:25,333 - INFO - Successfully parsed and saved PDF data: Foreclosure_Cases_Data\CV-2025-08-3687_08_08_2025\foreclosure_complaint_parsed.json
+2025-08-12 08:48:25,333 - INFO -   Plaintiff: KRISTEN M. SCALISE
+2025-08-12 08:48:25,333 - INFO -   Defendants: 1 found
+2025-08-12 08:48:25,333 - INFO -   Property Address: 2465 TYRO AVE AKRON, OH 44305
+2025-08-12 08:48:25,333 - INFO -   Redemption Price: $8056.37
+2025-08-12 08:48:25,333 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3687_08_08_2025\case_metadata.json
+2025-08-12 08:48:25,333 - INFO - Saved 2 processed cases
+2025-08-12 08:48:25,333 - INFO - Successfully processed case: CV-2025-08-3687
+2025-08-12 08:48:25,333 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3687_08_08_2025
+2025-08-12 08:48:27,337 - INFO - Processing case: CV-2025-08-3688
+2025-08-12 08:48:27,338 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3688_08_08_2025
+2025-08-12 08:48:27,338 - INFO - Getting details for case: CV-2025-08-3688
+2025-08-12 08:48:30,740 - INFO - Clicked on document tab
+2025-08-12 08:48:32,759 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3688_08_08_2025\case_details.json
+2025-08-12 08:48:32,759 - INFO - Downloading foreclosure complaint: vola0000004600001EBE
+2025-08-12 08:48:32,759 - INFO - Trying PDF URL: https://clerkweb.summitoh.net/PublicSite/Documents/vola0000004600001EBE.pdf
+2025-08-12 08:48:34,753 - INFO - PDF URL response: 200, Content-Type: application/pdf, Size: 279157
+2025-08-12 08:48:34,753 - INFO - Successfully downloaded PDF: vola0000004600001EBE_Foreclosure_Complaint.pdf (279157 bytes)
+2025-08-12 08:48:34,753 - INFO - Parsing PDF: Foreclosure_Cases_Data\CV-2025-08-3688_08_08_2025\vola0000004600001EBE_Foreclosure_Complaint.pdf
+2025-08-12 08:48:34,917 - INFO - Successfully parsed and saved PDF data: Foreclosure_Cases_Data\CV-2025-08-3688_08_08_2025\foreclosure_complaint_parsed.json
+2025-08-12 08:48:34,917 - INFO -   Plaintiff: KRISTEN M. SCALISE
+2025-08-12 08:48:34,917 - INFO -   Defendants: 3 found
+2025-08-12 08:48:34,917 - INFO -   Property Address: 426 TALBOT AVE., AKRON, OH 44306
+2025-08-12 08:48:34,917 - INFO -   Redemption Price: $9045.27
+2025-08-12 08:48:34,917 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3688_08_08_2025\case_metadata.json
+2025-08-12 08:48:34,917 - INFO - Saved 3 processed cases
+2025-08-12 08:48:34,917 - INFO - Successfully processed case: CV-2025-08-3688
+2025-08-12 08:48:34,917 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3688_08_08_2025
+2025-08-12 08:48:36,930 - INFO - Processing case: CV-2025-08-3689
+2025-08-12 08:48:36,930 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3689_08_08_2025
+2025-08-12 08:48:36,930 - INFO - Getting details for case: CV-2025-08-3689
+2025-08-12 08:48:40,338 - INFO - Clicked on document tab
+2025-08-12 08:48:42,365 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3689_08_08_2025\case_details.json
+2025-08-12 08:48:42,365 - INFO - Downloading foreclosure complaint: vola0000004600001ECD
+2025-08-12 08:48:42,380 - INFO - Trying PDF URL: https://clerkweb.summitoh.net/PublicSite/Documents/vola0000004600001ECD.pdf
+2025-08-12 08:48:44,351 - INFO - PDF URL response: 200, Content-Type: application/pdf, Size: 282100
+2025-08-12 08:48:44,367 - INFO - Successfully downloaded PDF: vola0000004600001ECD_Foreclosure_Complaint.pdf (282100 bytes)
+2025-08-12 08:48:44,367 - INFO - Parsing PDF: Foreclosure_Cases_Data\CV-2025-08-3689_08_08_2025\vola0000004600001ECD_Foreclosure_Complaint.pdf
+2025-08-12 08:48:44,549 - INFO - Successfully parsed and saved PDF data: Foreclosure_Cases_Data\CV-2025-08-3689_08_08_2025\foreclosure_complaint_parsed.json
+2025-08-12 08:48:44,549 - INFO -   Plaintiff: KRISTEN M. SCALISE
+2025-08-12 08:48:44,549 - INFO -   Defendants: 6 found
+2025-08-12 08:48:44,549 - INFO -   Property Address: 360 BEECHWOOD DR., AKRON, OH 44320
+2025-08-12 08:48:44,549 - INFO -   Redemption Price: $14260.65
+2025-08-12 08:48:44,550 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3689_08_08_2025\case_metadata.json
+2025-08-12 08:48:44,551 - INFO - Saved 4 processed cases
+2025-08-12 08:48:44,551 - INFO - Successfully processed case: CV-2025-08-3689
+2025-08-12 08:48:44,552 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3689_08_08_2025
+2025-08-12 08:48:46,553 - INFO - Processing case: CV-2025-08-3690
+2025-08-12 08:48:46,553 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3690_08_08_2025
+2025-08-12 08:48:46,553 - INFO - Getting details for case: CV-2025-08-3690
+2025-08-12 08:48:49,958 - INFO - Clicked on document tab
+2025-08-12 08:48:51,974 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3690_08_08_2025\case_details.json
+2025-08-12 08:48:51,974 - INFO - Downloading foreclosure complaint: vola0000004600001ED5
+2025-08-12 08:48:51,981 - INFO - Trying PDF URL: https://clerkweb.summitoh.net/PublicSite/Documents/vola0000004600001ED5.pdf
+2025-08-12 08:48:53,970 - INFO - PDF URL response: 200, Content-Type: application/pdf, Size: 276451
+2025-08-12 08:48:53,997 - INFO - Successfully downloaded PDF: vola0000004600001ED5_Foreclosure_Complaint.pdf (276451 bytes)
+2025-08-12 08:48:53,997 - INFO - Parsing PDF: Foreclosure_Cases_Data\CV-2025-08-3690_08_08_2025\vola0000004600001ED5_Foreclosure_Complaint.pdf
+2025-08-12 08:48:54,142 - INFO - Successfully parsed and saved PDF data: Foreclosure_Cases_Data\CV-2025-08-3690_08_08_2025\foreclosure_complaint_parsed.json
+2025-08-12 08:48:54,142 - INFO -   Plaintiff: KRISTEN M. SCALISE
+2025-08-12 08:48:54,142 - INFO -   Defendants: 1 found
+2025-08-12 08:48:54,142 - INFO -   Property Address: 369 PALM AVE AKRON, OH 44301
+2025-08-12 08:48:54,142 - INFO -   Redemption Price: $8817.87
+2025-08-12 08:48:54,142 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3690_08_08_2025\case_metadata.json
+2025-08-12 08:48:54,142 - INFO - Saved 5 processed cases
+2025-08-12 08:48:54,142 - INFO - Successfully processed case: CV-2025-08-3690
+2025-08-12 08:48:54,142 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3690_08_08_2025
+2025-08-12 08:48:56,155 - INFO - Processing case: CV-2025-08-3691
+2025-08-12 08:48:56,155 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3691_08_08_2025
+2025-08-12 08:48:56,155 - INFO - Getting details for case: CV-2025-08-3691
+2025-08-12 08:48:59,610 - INFO - Clicked on document tab
+2025-08-12 08:49:01,633 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3691_08_08_2025\case_details.json
+2025-08-12 08:49:01,634 - INFO - Downloading foreclosure complaint: vola0000004600001F02
+2025-08-12 08:49:01,640 - INFO - Trying PDF URL: https://clerkweb.summitoh.net/PublicSite/Documents/vola0000004600001F02.pdf
+2025-08-12 08:49:03,608 - INFO - PDF URL response: 200, Content-Type: application/pdf, Size: 282237
+2025-08-12 08:49:03,632 - INFO - Successfully downloaded PDF: vola0000004600001F02_Foreclosure_Complaint.pdf (282237 bytes)
+2025-08-12 08:49:03,632 - INFO - Parsing PDF: Foreclosure_Cases_Data\CV-2025-08-3691_08_08_2025\vola0000004600001F02_Foreclosure_Complaint.pdf
+2025-08-12 08:49:03,800 - INFO - Successfully parsed and saved PDF data: Foreclosure_Cases_Data\CV-2025-08-3691_08_08_2025\foreclosure_complaint_parsed.json
+2025-08-12 08:49:03,800 - INFO -   Plaintiff: KRISTEN M. SCALISE
+2025-08-12 08:49:03,800 - INFO -   Defendants: 3 found
+2025-08-12 08:49:03,801 - INFO -   Property Address: 589 COLE AVE., AKRON, OH 44301
+2025-08-12 08:49:03,801 - INFO -   Redemption Price: $8528.95
+2025-08-12 08:49:03,802 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3691_08_08_2025\case_metadata.json
+2025-08-12 08:49:03,802 - INFO - Saved 6 processed cases
+2025-08-12 08:49:03,802 - INFO - Successfully processed case: CV-2025-08-3691
+2025-08-12 08:49:03,802 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3691_08_08_2025
+2025-08-12 08:49:05,804 - INFO - Processing case: CV-2025-08-3693
+2025-08-12 08:49:05,804 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3693_08_08_2025
+2025-08-12 08:49:05,804 - INFO - Getting details for case: CV-2025-08-3693
+2025-08-12 08:49:09,256 - INFO - Clicked on document tab
+2025-08-12 08:49:11,277 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3693_08_08_2025\case_details.json
+2025-08-12 08:49:11,277 - INFO - Downloading foreclosure complaint: vola000000460000244C
+2025-08-12 08:49:11,277 - INFO - Trying PDF URL: https://clerkweb.summitoh.net/PublicSite/Documents/vola000000460000244C.pdf
+2025-08-12 08:49:14,799 - INFO - PDF URL response: 200, Content-Type: application/pdf, Size: 6608665
+2025-08-12 08:49:14,807 - INFO - Successfully downloaded PDF: vola000000460000244C_Foreclosure_Complaint.pdf (6608665 bytes)
+2025-08-12 08:49:14,808 - INFO - Parsing PDF: Foreclosure_Cases_Data\CV-2025-08-3693_08_08_2025\vola000000460000244C_Foreclosure_Complaint.pdf
+2025-08-12 08:49:15,054 - INFO - Successfully parsed and saved PDF data: Foreclosure_Cases_Data\CV-2025-08-3693_08_08_2025\foreclosure_complaint_parsed.json
+2025-08-12 08:49:15,054 - INFO -   Plaintiff: Citibank, N.A., not in its individual capacity but solely as Owner Trustee for New Residential Mortgage Loan Trust 2018-3
+2025-08-12 08:49:15,054 - INFO -   Defendants: 3 found
+2025-08-12 08:49:15,054 - INFO -   Property Address: 3685 Herbert Street Mogadore, OH 44260
+2025-08-12 08:49:15,054 - INFO -   Redemption Price: $36916.93
+2025-08-12 08:49:15,054 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3693_08_08_2025\case_metadata.json
+2025-08-12 08:49:15,054 - INFO - Saved 7 processed cases
+2025-08-12 08:49:15,054 - INFO - Successfully processed case: CV-2025-08-3693
+2025-08-12 08:49:15,054 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3693_08_08_2025
+2025-08-12 08:49:17,060 - INFO - Processing case: CV-2025-08-3694
+2025-08-12 08:49:17,060 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3694_08_08_2025
+2025-08-12 08:49:17,060 - INFO - Getting details for case: CV-2025-08-3694
+2025-08-12 08:49:20,506 - INFO - Clicked on document tab
+2025-08-12 08:49:22,527 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3694_08_08_2025\case_details.json
+2025-08-12 08:49:22,527 - INFO - Downloading foreclosure complaint: vola000000460000245A
+2025-08-12 08:49:22,533 - INFO - Trying PDF URL: https://clerkweb.summitoh.net/PublicSite/Documents/vola000000460000245A.pdf
+2025-08-12 08:49:25,852 - INFO - PDF URL response: 200, Content-Type: application/pdf, Size: 5583444
+2025-08-12 08:49:25,858 - INFO - Successfully downloaded PDF: vola000000460000245A_Foreclosure_Complaint.pdf (5583444 bytes)
+2025-08-12 08:49:25,859 - INFO - Parsing PDF: Foreclosure_Cases_Data\CV-2025-08-3694_08_08_2025\vola000000460000245A_Foreclosure_Complaint.pdf
+2025-08-12 08:49:26,136 - INFO - Successfully parsed and saved PDF data: Foreclosure_Cases_Data\CV-2025-08-3694_08_08_2025\foreclosure_complaint_parsed.json
+2025-08-12 08:49:26,136 - INFO -   Plaintiff: Fifth Third Bank, National Association MD 1MOB-BW Cincinnati, OH 45227
+2025-08-12 08:49:26,136 - INFO -   Defendants: 2 found
+2025-08-12 08:49:26,136 - INFO -   Property Address: 1940 8th Street Sw Akron, OH 44314
+2025-08-12 08:49:26,136 - INFO -   Redemption Price: $131332.46
+2025-08-12 08:49:26,136 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3694_08_08_2025\case_metadata.json
+2025-08-12 08:49:26,136 - INFO - Saved 8 processed cases
+2025-08-12 08:49:26,136 - INFO - Successfully processed case: CV-2025-08-3694
+2025-08-12 08:49:26,136 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3694_08_08_2025
+2025-08-12 08:49:28,140 - INFO - Processing case: CV-2025-08-3696
+2025-08-12 08:49:28,140 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3696_08_08_2025
+2025-08-12 08:49:28,140 - INFO - Getting details for case: CV-2025-08-3696
+2025-08-12 08:49:31,577 - INFO - Clicked on document tab
+2025-08-12 08:49:33,588 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3696_08_08_2025\case_details.json
+2025-08-12 08:49:33,588 - INFO - Downloading foreclosure complaint: vola00000046000026EF
+2025-08-12 08:49:33,604 - INFO - Trying PDF URL: https://clerkweb.summitoh.net/PublicSite/Documents/vola00000046000026EF.pdf
+2025-08-12 08:49:36,589 - INFO - PDF URL response: 200, Content-Type: application/pdf, Size: 2649432
+2025-08-12 08:49:36,597 - INFO - Successfully downloaded PDF: vola00000046000026EF_Foreclosure_Complaint.pdf (2649432 bytes)
+2025-08-12 08:49:36,598 - INFO - Parsing PDF: Foreclosure_Cases_Data\CV-2025-08-3696_08_08_2025\vola00000046000026EF_Foreclosure_Complaint.pdf
+2025-08-12 08:49:37,068 - INFO - Successfully parsed and saved PDF data: Foreclosure_Cases_Data\CV-2025-08-3696_08_08_2025\foreclosure_complaint_parsed.json
+2025-08-12 08:49:37,068 - INFO -   Plaintiff: None
+2025-08-12 08:49:37,068 - INFO -   Defendants: 0 found
+2025-08-12 08:49:37,068 - INFO -   Property Address: 1184 NEPTUNE AVE AKRON, OH 44301
+2025-08-12 08:49:37,068 - INFO -   Redemption Price: $82030.92
+2025-08-12 08:49:37,083 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3696_08_08_2025\case_metadata.json
+2025-08-12 08:49:37,083 - INFO - Saved 9 processed cases
+2025-08-12 08:49:37,083 - INFO - Successfully processed case: CV-2025-08-3696
+2025-08-12 08:49:37,083 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3696_08_08_2025
+2025-08-12 08:49:39,087 - INFO - Processing case: CV-2025-08-3701
+2025-08-12 08:49:39,087 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3701_08_08_2025
+2025-08-12 08:49:39,087 - INFO - Getting details for case: CV-2025-08-3701
+2025-08-12 08:49:42,561 - INFO - Clicked on document tab
+2025-08-12 08:49:44,597 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3701_08_08_2025\case_details.json
+2025-08-12 08:49:44,597 - INFO - Downloading foreclosure complaint: vola0000004600002875
+2025-08-12 08:49:44,597 - INFO - Trying PDF URL: https://clerkweb.summitoh.net/PublicSite/Documents/vola0000004600002875.pdf
+2025-08-12 08:49:47,858 - INFO - PDF URL response: 200, Content-Type: application/pdf, Size: 4621839
+2025-08-12 08:49:47,864 - INFO - Successfully downloaded PDF: vola0000004600002875_Foreclosure_Complaint.pdf (4621839 bytes)
+2025-08-12 08:49:47,864 - INFO - Parsing PDF: Foreclosure_Cases_Data\CV-2025-08-3701_08_08_2025\vola0000004600002875_Foreclosure_Complaint.pdf
+2025-08-12 08:49:50,156 - INFO - Successfully parsed and saved PDF data: Foreclosure_Cases_Data\CV-2025-08-3701_08_08_2025\foreclosure_complaint_parsed.json
+2025-08-12 08:49:50,156 - INFO -   Plaintiff: RUSHMORE LOAN MANAGEMENT SERVICES LLC
+2025-08-12 08:49:50,157 - INFO -   Defendants: 4 found
+2025-08-12 08:49:50,157 - INFO -   Property Address: 1231 COVENTRY STREET AKRON, OH 44306
+2025-08-12 08:49:50,157 - INFO -   Redemption Price: $75891.02
+2025-08-12 08:49:50,158 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3701_08_08_2025\case_metadata.json
+2025-08-12 08:49:50,159 - INFO - Saved 10 processed cases
+2025-08-12 08:49:50,159 - INFO - Successfully processed case: CV-2025-08-3701
+2025-08-12 08:49:50,159 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3701_08_08_2025
+2025-08-12 08:49:52,160 - INFO - Processing case: CV-2025-08-3710
+2025-08-12 08:49:52,160 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3710_08_08_2025
+2025-08-12 08:49:52,160 - INFO - Getting details for case: CV-2025-08-3710
+2025-08-12 08:49:55,573 - INFO - Clicked on document tab
+2025-08-12 08:49:57,612 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3710_08_08_2025\case_details.json
+2025-08-12 08:49:57,612 - INFO - Downloading foreclosure complaint: vola00000046000030B2
+2025-08-12 08:49:57,618 - INFO - Trying PDF URL: https://clerkweb.summitoh.net/PublicSite/Documents/vola00000046000030B2.pdf
+2025-08-12 08:49:59,566 - INFO - PDF URL response: 200, Content-Type: application/pdf, Size: 397677
+2025-08-12 08:49:59,586 - INFO - Successfully downloaded PDF: vola00000046000030B2_Foreclosure_Complaint.pdf (397677 bytes)
+2025-08-12 08:49:59,586 - INFO - Parsing PDF: Foreclosure_Cases_Data\CV-2025-08-3710_08_08_2025\vola00000046000030B2_Foreclosure_Complaint.pdf
+2025-08-12 08:49:59,753 - INFO - Successfully parsed and saved PDF data: Foreclosure_Cases_Data\CV-2025-08-3710_08_08_2025\foreclosure_complaint_parsed.json
+2025-08-12 08:49:59,753 - INFO -   Plaintiff: KRISTEN M. SCALISE
+2025-08-12 08:49:59,753 - INFO -   Defendants: 0 found
+2025-08-12 08:49:59,753 - INFO -   Property Address: 771 Garth Ave Akron, OH 44320
+2025-08-12 08:49:59,753 - INFO -   Redemption Price: $12641.59
+2025-08-12 08:49:59,753 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3710_08_08_2025\case_metadata.json
+2025-08-12 08:49:59,753 - INFO - Saved 11 processed cases
+2025-08-12 08:49:59,753 - INFO - Successfully processed case: CV-2025-08-3710
+2025-08-12 08:49:59,753 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3710_08_08_2025
+2025-08-12 08:50:01,759 - INFO - Monitoring cycle complete:
+2025-08-12 08:50:01,759 - INFO -   Total cases found: 11
+2025-08-12 08:50:01,759 - INFO -   New cases: 11
+2025-08-12 08:50:01,759 - INFO -   Successfully processed: 11
+2025-08-12 08:50:01,760 - INFO -   PDFs downloaded: 11
+2025-08-12 08:50:01,760 - INFO -   PDFs parsed: 11
+2025-08-12 08:50:01,760 - INFO -   Failed cases: 0
+2025-08-12 08:50:01,760 - INFO - Waiting 1.0 hours before next check...
+2025-08-12 08:51:45,291 - INFO - Monitoring stopped by user
+2025-08-12 08:51:45,291 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/ad2a02867b26d359daecffb8106fc4fd
+2025-08-12 08:51:49,397 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C5A38B2590>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ad2a02867b26d359daecffb8106fc4fd
+2025-08-12 08:51:53,451 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C5A38B1690>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ad2a02867b26d359daecffb8106fc4fd
+2025-08-12 08:51:57,529 - INFO - Browser closed
+2025-08-12 08:51:57,529 - INFO - Foreclosure automation ended
