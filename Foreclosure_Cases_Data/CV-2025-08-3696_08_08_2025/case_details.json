@@ -12,6 +12,51 @@
   },
   "docket_entries": [
     {
+      "date": "08/11/2025",
+      "filed_by": "LOANDEPOT.COM, LLC",
+      "description": "SUMMONS ISSUED BY CERTIFIED MAIL BY Certified Mail BURMEISTER, UNKNOWN SPOUSE OF GERALD",
+      "has_document": true,
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        00002F94",
+      "document_id": "vola0000004600002F94",
+      "raw_document_id": "vola00000046        00002F94"
+    },
+    {
+      "date": "08/11/2025",
+      "filed_by": "LOANDEPOT.COM, LLC",
+      "description": "SUMMONS ISSUED BY CERTIFIED MAIL BY Certified Mail BURMEISTER, GERALD",
+      "has_document": true,
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        00002F7E",
+      "document_id": "vola0000004600002F7E",
+      "raw_document_id": "vola00000046        00002F7E"
+    },
+    {
+      "date": "08/11/2025",
+      "filed_by": "LOANDEPOT.COM, LLC",
+      "description": "SUMMONS ISSUED BY CERTIFIED MAIL BY Certified Mail FOUNDATION FINANCE COMPANY LLC",
+      "has_document": true,
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        00002F64",
+      "document_id": "vola0000004600002F64",
+      "raw_document_id": "vola00000046        00002F64"
+    },
+    {
+      "date": "08/08/2025",
+      "filed_by": "LOANDEPOT.COM, LLC",
+      "description": "SUMMONS ISSUED BY SHERIFF BURMEISTER, UNKNOWN SPOUSE OF GERALD",
+      "has_document": true,
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        00002F41",
+      "document_id": "vola0000004600002F41",
+      "raw_document_id": "vola00000046        00002F41"
+    },
+    {
+      "date": "08/08/2025",
+      "filed_by": "LOANDEPOT.COM, LLC",
+      "description": "SUMMONS ISSUED BY SHERIFF BURMEISTER, GERALD",
+      "has_document": true,
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        00002F3C",
+      "document_id": "vola0000004600002F3C",
+      "raw_document_id": "vola00000046        00002F3C"
+    },
+    {
       "date": "08/08/2025",
       "filed_by": "FOSTER, ADRIENNE",
       "description": "CERTIFICATE OF READINESS.",
@@ -59,8 +104,8 @@
   ],
   "documents": [],
   "metadata": {
-    "parsed_at": "2025-08-11T03:31:56.832422",
+    "parsed_at": "2025-08-12T08:38:56.518690",
     "source_url": "https://clerkweb.summitoh.net/PublicSite/CaseDetail.aspx?CaseNo=CV-2025-08-3696&Suffix=&Type=",
-    "total_docket_entries": 5
+    "total_docket_entries": 10
   }
 }

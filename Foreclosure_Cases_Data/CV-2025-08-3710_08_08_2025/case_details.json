@@ -1,0 +1,102 @@
+{
+  "basic_info": {
+    "case_caption": "KRISTEN M SCALISE VS IMPERIAL VALLEY PROPERTIES, LLC",
+    "case_number": "CV-2025-08-3710",
+    "file_date": "08/08/2025",
+    "case_type": "FORECLOSURE",
+    "judge": "CHRISTINE CROCE"
+  },
+  "parties": {
+    "plaintiffs": [],
+    "defendants": []
+  },
+  "docket_entries": [
+    {
+      "date": "08/11/2025",
+      "filed_by": "SCALISE, KRISTEN",
+      "description": "SUMMONS ISSUED BY CERTIFIED MAIL BY Certified Mail IMPERIAL VALLEY PROPERTIES, LLC",
+      "has_document": true,
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        000033B0",
+      "document_id": "vola00000046000033B0",
+      "raw_document_id": "vola00000046        000033B0"
+    },
+    {
+      "date": "08/11/2025",
+      "filed_by": "SCALISE, KRISTEN",
+      "description": "SUMMONS ISSUED BY CERTIFIED MAIL BY Certified Mail IMPERIAL VALLEY PROPERTIES, LLC",
+      "has_document": true,
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        000033AD",
+      "document_id": "vola00000046000033AD",
+      "raw_document_id": "vola00000046        000033AD"
+    },
+    {
+      "date": "08/11/2025",
+      "filed_by": "SCALISE, KRISTEN",
+      "description": "SUMMONS ISSUED BY CERTIFIED MAIL BY Certified Mail IMPERIAL VALLEY PROPERTIES, LLC",
+      "has_document": true,
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        000033AB",
+      "document_id": "vola00000046000033AB",
+      "raw_document_id": "vola00000046        000033AB"
+    },
+    {
+      "date": "08/08/2025",
+      "filed_by": "CAMPBELL, AARON",
+      "description": "CERTIFICATE OF READINESS.",
+      "has_document": true,
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        000030B3",
+      "document_id": "vola00000046000030B3",
+      "raw_document_id": "vola00000046        000030B3"
+    },
+    {
+      "date": "08/08/2025",
+      "filed_by": "CAMPBELL, AARON",
+      "description": "FORECLOSURE COMPLAINT",
+      "has_document": true,
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        000030B2",
+      "document_id": "vola00000046000030B2",
+      "raw_document_id": "vola00000046        000030B2"
+    },
+    {
+      "date": "08/08/2025",
+      "filed_by": "CAMPBELL, AARON",
+      "description": "INSTRUCTIONS TO CLERK FOR SERVICE",
+      "has_document": true,
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        000030B4",
+      "document_id": "vola00000046000030B4",
+      "raw_document_id": "vola00000046        000030B4"
+    },
+    {
+      "date": "08/08/2025",
+      "filed_by": "CAMPBELL, AARON",
+      "description": "PRELIMINARY JUDICIAL REPORT.",
+      "has_document": true,
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        000030B5",
+      "document_id": "vola00000046000030B5",
+      "raw_document_id": "vola00000046        000030B5"
+    },
+    {
+      "date": "08/08/2025",
+      "filed_by": "CAMPBELL, AARON",
+      "description": "NOTICE OF APPEARANCE",
+      "has_document": true,
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        000030B6",
+      "document_id": "vola00000046000030B6",
+      "raw_document_id": "vola00000046        000030B6"
+    },
+    {
+      "date": "08/08/2025",
+      "filed_by": "CAMPBELL, AARON",
+      "description": "INVOICE",
+      "has_document": true,
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        000030B7",
+      "document_id": "vola00000046000030B7",
+      "raw_document_id": "vola00000046        000030B7"
+    }
+  ],
+  "documents": [],
+  "metadata": {
+    "parsed_at": "2025-08-12T08:39:17.772256",
+    "source_url": "https://clerkweb.summitoh.net/PublicSite/CaseDetail.aspx?CaseNo=CV-2025-08-3710&Suffix=&Type=",
+    "total_docket_entries": 9
+  }
+}

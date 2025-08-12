@@ -12,6 +12,42 @@
   },
   "docket_entries": [
     {
+      "date": "08/11/2025",
+      "filed_by": "FIFTH THIRD BANK, NATIONAL ASSOCIATION",
+      "description": "SUMMONS ISSUED BY FEDEX LEMONS AKA ROBERT L. LEMONS, JR., ROBERT L.",
+      "has_document": true,
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        00002EBB",
+      "document_id": "vola0000004600002EBB",
+      "raw_document_id": "vola00000046        00002EBB"
+    },
+    {
+      "date": "08/11/2025",
+      "filed_by": "FIFTH THIRD BANK, NATIONAL ASSOCIATION",
+      "description": "SUMMONS ISSUED BY FEDEX LEMONS, BELINDA",
+      "has_document": true,
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        00002EAB",
+      "document_id": "vola0000004600002EAB",
+      "raw_document_id": "vola00000046        00002EAB"
+    },
+    {
+      "date": "08/08/2025",
+      "filed_by": "FIFTH THIRD BANK, NATIONAL ASSOCIATION",
+      "description": "SUMMONS ISSUED BY SHERIFF LEMONS AKA ROBERT L. LEMONS, JR., ROBERT L.",
+      "has_document": true,
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        00002E95",
+      "document_id": "vola0000004600002E95",
+      "raw_document_id": "vola00000046        00002E95"
+    },
+    {
+      "date": "08/08/2025",
+      "filed_by": "FIFTH THIRD BANK, NATIONAL ASSOCIATION",
+      "description": "SUMMONS ISSUED BY SHERIFF LEMONS, BELINDA",
+      "has_document": true,
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        00002E90",
+      "document_id": "vola0000004600002E90",
+      "raw_document_id": "vola00000046        00002E90"
+    },
+    {
       "date": "08/08/2025",
       "filed_by": "CLUNK, ETHAN",
       "description": "CERTIFICATE OF READINESS.",
@@ -50,8 +86,8 @@
   ],
   "documents": [],
   "metadata": {
-    "parsed_at": "2025-08-11T03:31:32.814982",
+    "parsed_at": "2025-08-12T08:38:45.602773",
     "source_url": "https://clerkweb.summitoh.net/PublicSite/CaseDetail.aspx?CaseNo=CV-2025-08-3694&Suffix=&Type=",
-    "total_docket_entries": 4
+    "total_docket_entries": 8
   }
 }
