@@ -1,0 +1,39 @@
+{
+  "file": "vola000000460000245A_Foreclosure_Complaint.pdf",
+  "case_number": "CV-2025-08-3694",
+  "court": "Court Of Common Pleas",
+  "county": "Summit",
+  "filing_datetime": "2025-08-08T09:00:17",
+  "plaintiff": "Fifth Third Bank, National Association MD 1MOB-BW Cincinnati, OH 45227",
+  "defendants": [
+    "Robert L. Lemons, Jr., aka Robert L. Lemons",
+    "Belinda Lemons"
+  ],
+  "property_address": "1940 8th Street Sw Akron, OH 44314",
+  "parcel_number": null,
+  "lien_holder": null,
+  "tax_certificate_number": null,
+  "tax_certificate_sale_date": null,
+  "redemption_price": 131332.46,
+  "redemption_good_through": null,
+  "interest_rate_percent": null,
+  "statutes": [],
+  "relief_requested": [
+    "Foreclosure of liens"
+  ],
+  "exhibits": [
+    "A",
+    "B"
+  ],
+  "attorney": {
+    "prosecutor_name": null,
+    "office": null,
+    "assistant_name": null,
+    "bar_number": "6734975",
+    "title": null,
+    "address": "5001 Kingsley Drive",
+    "phone": "(330) 436-0300",
+    "email": "requests@clunkhoose.com"
+  },
+  "raw_excerpt": "CV-2025-08-3694 OLDFIELD, JOY M 8/8/2025 9:00:17 AM FORC Page 1 of 22 25-01580 IN THE COURT OF COMMON PLEAS SUMMIT COUNTY, OHIO Fifth Third Bank, National Association 5001 Kingsley Drive MD 1MOB-BW Cincinnati, OH 45227 CASE NO. JUDGE PPN: 6734975 COMPLAINT IN FORECLOSURE Plaintiff -vs- Robert L. Lemons, Jr., aka Robert L. Lemons 1940 8th Street Sw Akron, OH 44314 -and- Belinda Lemons 1940 8th Street Sw Akron, OH 44314 Defendants FIRST COUNT 1. Plaintiff is entitled to enforce a certain promissor..."
+}

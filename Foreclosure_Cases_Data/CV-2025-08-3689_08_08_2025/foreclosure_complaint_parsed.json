@@ -1,0 +1,47 @@
+{
+  "file": "vola0000004600001ECD_Foreclosure_Complaint.pdf",
+  "case_number": "CV-2025-08-3689",
+  "court": "Court Of Common Pleas",
+  "county": "Summit",
+  "filing_datetime": "2025-08-08T07:13:28",
+  "plaintiff": "KRISTEN M. SCALISE",
+  "defendants": [
+    "EKENE UGOCHUKWU",
+    "AKA EKENE UGOCHIKISU",
+    "AKA EKENE UGOCHWARD",
+    "CREBRID LLC AS SUCCESSOR IN",
+    "INTEREST TO WILDCAT LENDING",
+    "FUND TWO, LP"
+  ],
+  "property_address": "360 BEECHWOOD DR., AKRON, OH 44320",
+  "parcel_number": "68-48688",
+  "lien_holder": "NAR Ohio",
+  "tax_certificate_number": "6848688-23",
+  "tax_certificate_sale_date": null,
+  "redemption_price": 14260.65,
+  "redemption_good_through": "August 2025",
+  "interest_rate_percent": null,
+  "statutes": [
+    "R.C.5721.19",
+    "R.C.5721.37",
+    "R.C.5721.38",
+    "R.C.5721.39"
+  ],
+  "relief_requested": [
+    "Foreclosure of liens"
+  ],
+  "exhibits": [
+    "A"
+  ],
+  "attorney": {
+    "prosecutor_name": "ELLIOT KOLKOVICH",
+    "office": "Summit County Prosecutor",
+    "assistant_name": "Una Lakic",
+    "bar_number": "6848688",
+    "title": "Assistant Prosecuting Attorney",
+    "address": "53 University Avenue, 7th Floor",
+    "phone": "(330) 643-8321",
+    "email": "ulakic@prosecutor.summitoh.net"
+  },
+  "raw_excerpt": "CV-2025-08-3689 MCLAUGHLIN, KELLY 8/8/2025 7:13:28 AM FORC Page 1 of 6 IN THE COURT OF COMMON PLEAS SUMMIT COUNTY, OHIO KRISTEN M. SCALISE, As Fiscal Officer, Summit County, Ohio Plaintiff vs. EKENE UGOCHUKWU AKA EKENE UGOCHIKISU AKA EKENE UGOCHWARD 4325 EDAM ST LANCASTER, CA 93535 & 360 BEECHWOOD DR. AKRON, OH 44320 CREBRID LLC AS SUCCESSOR IN INTEREST TO WILDCAT LENDING FUND TWO, LP C/O CAPITOL CORPORATE SERVICES, INC. 4568 MAYFIELD RD. STE 204 CLEVELAND, OH 44121 & 8343 DOUGLAS AVE, SUITE 750..."
+}

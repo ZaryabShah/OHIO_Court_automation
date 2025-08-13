@@ -1,0 +1,44 @@
+{
+  "file": "vola0000004600001EBE_Foreclosure_Complaint.pdf",
+  "case_number": "CV-2025-08-3688",
+  "court": "Court Of Common Pleas",
+  "county": "Summit",
+  "filing_datetime": "2025-08-08T07:06:34",
+  "plaintiff": "KRISTEN M. SCALISE",
+  "defendants": [
+    "AUTUMN TREJO",
+    "RODOLPHO TREJO AKA",
+    "RODOLFO TREJO"
+  ],
+  "property_address": "426 TALBOT AVE., AKRON, OH 44306",
+  "parcel_number": "68-12723",
+  "lien_holder": "NAR Ohio",
+  "tax_certificate_number": "6812723-23",
+  "tax_certificate_sale_date": null,
+  "redemption_price": 9045.27,
+  "redemption_good_through": "August 2025",
+  "interest_rate_percent": null,
+  "statutes": [
+    "R.C.5721.19",
+    "R.C.5721.37",
+    "R.C.5721.38",
+    "R.C.5721.39"
+  ],
+  "relief_requested": [
+    "Foreclosure of liens"
+  ],
+  "exhibits": [
+    "A"
+  ],
+  "attorney": {
+    "prosecutor_name": "ELLIOT KOLKOVICH",
+    "office": "Summit County Prosecutor",
+    "assistant_name": "Una Lakic",
+    "bar_number": "6812723",
+    "title": "Assistant Prosecuting Attorney",
+    "address": "53 University Avenue, 7th Floor",
+    "phone": "(330) 643-8321",
+    "email": "ulakic@prosecutor.summitoh.net"
+  },
+  "raw_excerpt": "CV-2025-08-3688 OLDFIELD, JOY M 8/8/2025 7:06:34 AM FORC Page 1 of 6 IN THE COURT OF COMMON PLEAS SUMMIT COUNTY, OHIO KRISTEN M. SCALISE, As Fiscal Officer, Summit County, Ohio Plaintiff vs. AUTUMN TREJO 426 TALBOT AVE., AKRON, OH 44306 RODOLPHO TREJO AKA RODOLFO TREJO 426 TALBOT AVE., AKRON, OH 44306 Defendant(s) CASE NUMBER: JUDGE: COMPLAINT TAX LIEN FORECLOSURE To foreclose the lien vested in NAR Ohio, LLC Certificate Number(s): 6812723-23 6812723-24 Permanent Parcel Number: 68-12723 PROPERTY..."
+}

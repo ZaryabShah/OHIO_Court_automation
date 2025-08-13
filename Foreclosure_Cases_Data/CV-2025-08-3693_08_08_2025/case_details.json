@@ -1,0 +1,118 @@
+{
+  "basic_info": {
+    "case_caption": "CITIBANK, N.A., NOT IN ITS INDIVIDUAL CA VS LARRY W. HOTCHKISS",
+    "case_number": "CV-2025-08-3693",
+    "file_date": "08/08/2025",
+    "case_type": "FORECLOSURE",
+    "judge": "ALISON E. MCCARTY"
+  },
+  "parties": {
+    "plaintiffs": [],
+    "defendants": []
+  },
+  "docket_entries": [
+    {
+      "date": "08/09/2025",
+      "filed_by": "SUMMIT COUNTY CLERK OF COURTS",
+      "description": "FedEx Service - Served LARRY W. HOTCHKISS",
+      "has_document": false,
+      "document_link": "",
+      "document_id": ""
+    },
+    {
+      "date": "08/09/2025",
+      "filed_by": "SUMMIT COUNTY CLERK OF COURTS",
+      "description": "FedEx Service - Served JEANNE M HOTCHKISS",
+      "has_document": false,
+      "document_link": "",
+      "document_id": ""
+    },
+    {
+      "date": "08/08/2025",
+      "filed_by": "CITIBANK, N.A., NOT IN ITS INDIVIDUAL CA",
+      "description": "SUMMONS ISSUED BY FEDEX NATIONAL COLLEGIATE STUDENT LOAN TRUST",
+      "has_document": true,
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        00002A19",
+      "document_id": "vola0000004600002A19",
+      "raw_document_id": "vola00000046        00002A19"
+    },
+    {
+      "date": "08/08/2025",
+      "filed_by": "CITIBANK, N.A., NOT IN ITS INDIVIDUAL CA",
+      "description": "SUMMONS ISSUED BY FEDEX HOTCHKISS, LARRY W.",
+      "has_document": true,
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        00002A00",
+      "document_id": "vola0000004600002A00",
+      "raw_document_id": "vola00000046        00002A00"
+    },
+    {
+      "date": "08/08/2025",
+      "filed_by": "CITIBANK, N.A., NOT IN ITS INDIVIDUAL CA",
+      "description": "SUMMONS ISSUED BY FEDEX HOTCHKISS, JEANNE M",
+      "has_document": true,
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        000029E8",
+      "document_id": "vola00000046000029E8",
+      "raw_document_id": "vola00000046        000029E8"
+    },
+    {
+      "date": "08/08/2025",
+      "filed_by": "CITIBANK, N.A., NOT IN ITS INDIVIDUAL CA",
+      "description": "SUMMONS ISSUED BY SHERIFF HOTCHKISS, LARRY W.",
+      "has_document": true,
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        000029A4",
+      "document_id": "vola00000046000029A4",
+      "raw_document_id": "vola00000046        000029A4"
+    },
+    {
+      "date": "08/08/2025",
+      "filed_by": "CITIBANK, N.A., NOT IN ITS INDIVIDUAL CA",
+      "description": "SUMMONS ISSUED BY SHERIFF HOTCHKISS, JEANNE M",
+      "has_document": true,
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        0000299E",
+      "document_id": "vola000000460000299E",
+      "raw_document_id": "vola00000046        0000299E"
+    },
+    {
+      "date": "08/08/2025",
+      "filed_by": "CLUNK, ETHAN",
+      "description": "CERTIFICATE OF READINESS.",
+      "has_document": true,
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        0000244B",
+      "document_id": "vola000000460000244B",
+      "raw_document_id": "vola00000046        0000244B"
+    },
+    {
+      "date": "08/08/2025",
+      "filed_by": "CLUNK, ETHAN",
+      "description": "FORECLOSURE COMPLAINT",
+      "has_document": true,
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        0000244C",
+      "document_id": "vola000000460000244C",
+      "raw_document_id": "vola00000046        0000244C"
+    },
+    {
+      "date": "08/08/2025",
+      "filed_by": "CLUNK, ETHAN",
+      "description": "INSTRUCTIONS TO CLERK FOR SERVICE",
+      "has_document": true,
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        0000244D",
+      "document_id": "vola000000460000244D",
+      "raw_document_id": "vola00000046        0000244D"
+    },
+    {
+      "date": "08/08/2025",
+      "filed_by": "CLUNK, ETHAN",
+      "description": "PRELIMINARY JUDICIAL REPORT.",
+      "has_document": true,
+      "document_link": "https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        0000244E",
+      "document_id": "vola000000460000244E",
+      "raw_document_id": "vola00000046        0000244E"
+    }
+  ],
+  "documents": [],
+  "metadata": {
+    "parsed_at": "2025-08-12T08:49:11.277413",
+    "source_url": "https://clerkweb.summitoh.net/PublicSite/CaseDetail.aspx?CaseNo=CV-2025-08-3693&Suffix=&Type=",
+    "total_docket_entries": 11
+  }
+}
