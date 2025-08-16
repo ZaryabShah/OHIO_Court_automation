@@ -1,0 +1,374 @@
+2025-08-17 02:14:57,057 - INFO - ============================================================
+2025-08-17 02:14:57,058 - INFO - SUMMIT COUNTY FORECLOSURE AUTOMATION STARTING
+2025-08-17 02:14:57,058 - INFO - ============================================================
+2025-08-17 02:14:57,059 - INFO - No previous processed cases found
+2025-08-17 02:15:09,664 - INFO - Browser initialized successfully
+2025-08-17 02:15:09,664 - INFO - Starting continuous foreclosure monitoring...
+2025-08-17 02:15:09,664 - INFO - Starting monitoring cycle for 08/17/2025
+2025-08-17 02:15:09,664 - INFO - Searching for foreclosure cases on 08/17/2025
+2025-08-17 02:15:21,777 - INFO - Found 0 cases for 08/17/2025
+2025-08-17 02:15:21,777 - INFO - No cases found for today
+2025-08-17 02:15:21,777 - INFO - Waiting 0.5 hours before next check...
+2025-08-17 02:15:37,158 - INFO - Monitoring stopped by user
+2025-08-17 02:15:37,169 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/cb1645804e104538af734beaafe9d6e2
+2025-08-17 02:15:39,211 - INFO - 
+Automation stopped by user
+2025-08-17 02:15:39,212 - INFO - Foreclosure automation ended
+2025-08-17 02:16:06,122 - INFO - ============================================================
+2025-08-17 02:16:06,122 - INFO - SUMMIT COUNTY FORECLOSURE AUTOMATION STARTING
+2025-08-17 02:16:06,122 - INFO - ============================================================
+2025-08-17 02:16:06,122 - INFO - No previous processed cases found
+2025-08-17 02:16:07,459 - INFO - Browser initialized successfully
+2025-08-17 02:16:07,460 - INFO - Starting continuous foreclosure monitoring...
+2025-08-17 02:16:07,460 - INFO - Searching for foreclosure cases on 08/08/2025
+2025-08-17 02:16:18,742 - INFO - Found 12 cases for 08/08/2025
+2025-08-17 02:16:18,742 - INFO - Processing case: CV-2025-08-3692
+2025-08-17 02:16:18,742 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3692_08_08_2025
+2025-08-17 02:16:18,742 - INFO - Getting details for case: CV-2025-08-3692
+2025-08-17 02:16:22,637 - INFO - Clicked on document tab
+2025-08-17 02:16:24,668 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3692_08_08_2025\case_details.json
+2025-08-17 02:16:24,668 - WARNING - No foreclosure complaint found for CV-2025-08-3692
+2025-08-17 02:16:24,668 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3692_08_08_2025\case_metadata.json
+2025-08-17 02:16:24,672 - INFO - Saved 1 processed cases
+2025-08-17 02:16:24,672 - INFO - Successfully processed case: CV-2025-08-3692
+2025-08-17 02:16:24,673 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3692_08_08_2025
+2025-08-17 02:16:26,674 - INFO - Processing case: CV-2025-08-3695
+2025-08-17 02:16:26,675 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3695_08_08_2025
+2025-08-17 02:16:26,675 - INFO - Getting details for case: CV-2025-08-3695
+2025-08-17 02:16:30,107 - INFO - Clicked on document tab
+2025-08-17 02:16:32,122 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3695_08_08_2025\case_details.json
+2025-08-17 02:16:32,122 - WARNING - No foreclosure complaint found for CV-2025-08-3695
+2025-08-17 02:16:32,122 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3695_08_08_2025\case_metadata.json
+2025-08-17 02:16:32,122 - INFO - Saved 2 processed cases
+2025-08-17 02:16:32,122 - INFO - Successfully processed case: CV-2025-08-3695
+2025-08-17 02:16:32,122 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3695_08_08_2025
+2025-08-17 02:16:34,129 - INFO - Processing case: CV-2025-08-3697
+2025-08-17 02:16:34,129 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3697_08_08_2025
+2025-08-17 02:16:34,129 - INFO - Getting details for case: CV-2025-08-3697
+2025-08-17 02:16:37,535 - INFO - Clicked on document tab
+2025-08-17 02:16:39,542 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3697_08_08_2025\case_details.json
+2025-08-17 02:16:39,552 - WARNING - No foreclosure complaint found for CV-2025-08-3697
+2025-08-17 02:16:39,553 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3697_08_08_2025\case_metadata.json
+2025-08-17 02:16:39,553 - INFO - Saved 3 processed cases
+2025-08-17 02:16:39,559 - INFO - Successfully processed case: CV-2025-08-3697
+2025-08-17 02:16:39,560 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3697_08_08_2025
+2025-08-17 02:16:41,561 - INFO - Processing case: CV-2025-08-3698
+2025-08-17 02:16:41,561 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3698_08_08_2025
+2025-08-17 02:16:41,561 - INFO - Getting details for case: CV-2025-08-3698
+2025-08-17 02:16:44,936 - INFO - Clicked on document tab
+2025-08-17 02:16:46,952 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3698_08_08_2025\case_details.json
+2025-08-17 02:16:46,952 - WARNING - No foreclosure complaint found for CV-2025-08-3698
+2025-08-17 02:16:46,952 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3698_08_08_2025\case_metadata.json
+2025-08-17 02:16:46,952 - INFO - Saved 4 processed cases
+2025-08-17 02:16:46,952 - INFO - Successfully processed case: CV-2025-08-3698
+2025-08-17 02:16:46,956 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3698_08_08_2025
+2025-08-17 02:16:48,957 - INFO - Processing case: CV-2025-08-3699
+2025-08-17 02:16:48,957 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3699_08_08_2025
+2025-08-17 02:16:48,957 - INFO - Getting details for case: CV-2025-08-3699
+2025-08-17 02:16:52,453 - INFO - Clicked on document tab
+2025-08-17 02:16:54,487 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3699_08_08_2025\case_details.json
+2025-08-17 02:16:54,487 - WARNING - No foreclosure complaint found for CV-2025-08-3699
+2025-08-17 02:16:54,490 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3699_08_08_2025\case_metadata.json
+2025-08-17 02:16:54,490 - INFO - Saved 5 processed cases
+2025-08-17 02:16:54,490 - INFO - Successfully processed case: CV-2025-08-3699
+2025-08-17 02:16:54,492 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3699_08_08_2025
+2025-08-17 02:16:56,492 - INFO - Processing case: CV-2025-08-3702
+2025-08-17 02:16:56,494 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3702_08_08_2025
+2025-08-17 02:16:56,494 - INFO - Getting details for case: CV-2025-08-3702
+2025-08-17 02:16:59,897 - INFO - Clicked on document tab
+2025-08-17 02:17:01,916 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3702_08_08_2025\case_details.json
+2025-08-17 02:17:01,917 - WARNING - No foreclosure complaint found for CV-2025-08-3702
+2025-08-17 02:17:01,918 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3702_08_08_2025\case_metadata.json
+2025-08-17 02:17:01,918 - INFO - Saved 6 processed cases
+2025-08-17 02:17:01,918 - INFO - Successfully processed case: CV-2025-08-3702
+2025-08-17 02:17:01,918 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3702_08_08_2025
+2025-08-17 02:17:03,920 - INFO - Processing case: CV-2025-08-3705
+2025-08-17 02:17:03,923 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3705_08_08_2025
+2025-08-17 02:17:03,924 - INFO - Getting details for case: CV-2025-08-3705
+2025-08-17 02:17:07,354 - INFO - Clicked on document tab
+2025-08-17 02:17:09,363 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3705_08_08_2025\case_details.json
+2025-08-17 02:17:09,363 - WARNING - No foreclosure complaint found for CV-2025-08-3705
+2025-08-17 02:17:09,363 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3705_08_08_2025\case_metadata.json
+2025-08-17 02:17:09,372 - INFO - Saved 7 processed cases
+2025-08-17 02:17:09,372 - INFO - Successfully processed case: CV-2025-08-3705
+2025-08-17 02:17:09,372 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3705_08_08_2025
+2025-08-17 02:17:11,373 - INFO - Processing case: CV-2025-08-3706
+2025-08-17 02:17:11,373 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3706_08_08_2025
+2025-08-17 02:17:11,373 - INFO - Getting details for case: CV-2025-08-3706
+2025-08-17 02:17:15,298 - INFO - Clicked on document tab
+2025-08-17 02:17:17,372 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3706_08_08_2025\case_details.json
+2025-08-17 02:17:17,380 - WARNING - No foreclosure complaint found for CV-2025-08-3706
+2025-08-17 02:17:17,380 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3706_08_08_2025\case_metadata.json
+2025-08-17 02:17:17,380 - INFO - Saved 8 processed cases
+2025-08-17 02:17:17,380 - INFO - Successfully processed case: CV-2025-08-3706
+2025-08-17 02:17:17,382 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3706_08_08_2025
+2025-08-17 02:17:19,383 - INFO - Processing case: CV-2025-08-3707
+2025-08-17 02:17:19,383 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3707_08_08_2025
+2025-08-17 02:17:19,386 - INFO - Getting details for case: CV-2025-08-3707
+2025-08-17 02:17:22,902 - INFO - Clicked on document tab
+2025-08-17 02:17:24,488 - INFO - Monitoring stopped by user
+2025-08-17 02:17:24,506 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/b100296b3820e6ce8db9e8069fd92459
+2025-08-17 02:17:28,554 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028132F2FA50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b100296b3820e6ce8db9e8069fd92459
+2025-08-17 02:17:32,612 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028132F2F750>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b100296b3820e6ce8db9e8069fd92459
+2025-08-17 02:17:36,679 - INFO - Browser closed
+2025-08-17 02:17:36,679 - INFO - Foreclosure automation ended
+2025-08-17 02:18:51,485 - INFO - ============================================================
+2025-08-17 02:18:51,485 - INFO - SUMMIT COUNTY FORECLOSURE AUTOMATION STARTING
+2025-08-17 02:18:51,485 - INFO - ============================================================
+2025-08-17 02:18:51,492 - INFO - No previous processed cases found
+2025-08-17 02:18:52,820 - INFO - Browser initialized successfully
+2025-08-17 02:18:52,820 - INFO - Starting continuous foreclosure monitoring...
+2025-08-17 02:18:52,820 - INFO - Searching for foreclosure cases on 08/08/2025
+2025-08-17 02:19:04,237 - INFO - Found 12 cases for 08/08/2025
+2025-08-17 02:19:04,237 - INFO - Processing case: CV-2025-08-3692
+2025-08-17 02:19:04,237 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3692_08_08_2025
+2025-08-17 02:19:04,237 - INFO - Getting details for case: CV-2025-08-3692
+2025-08-17 02:19:08,171 - INFO - Clicked on document tab
+2025-08-17 02:19:10,194 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3692_08_08_2025\case_details.json
+2025-08-17 02:19:10,194 - INFO - Downloading foreclosure complaint: vola00000046000022D7
+2025-08-17 02:19:10,204 - INFO - Trying PDF URL: https://clerkweb.summitoh.net/PublicSite/Documents/vola00000046000022D7.pdf
+2025-08-17 02:19:11,230 - INFO - PDF URL response: 404, Content-Type: text/html, Size: 1245
+2025-08-17 02:19:11,230 - INFO - Trying DisplayImage URL: https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        000022D7
+2025-08-17 02:19:13,605 - INFO - DisplayImage response: 200, Content-Type: application/pdf, Size: 1008617
+2025-08-17 02:19:13,643 - INFO - Successfully downloaded PDF via DisplayImage: vola00000046000022D7_Foreclosure_Complaint.pdf (1008617 bytes)
+2025-08-17 02:19:13,643 - INFO - Parsing PDF: Foreclosure_Cases_Data\CV-2025-08-3692_08_08_2025\vola00000046000022D7_Foreclosure_Complaint.pdf
+2025-08-17 02:19:13,942 - ERROR - Error parsing PDF Foreclosure_Cases_Data\CV-2025-08-3692_08_08_2025\vola00000046000022D7_Foreclosure_Complaint.pdf: Could not extract text from: Foreclosure_Cases_Data\CV-2025-08-3692_08_08_2025\vola00000046000022D7_Foreclosure_Complaint.pdf
+2025-08-17 02:19:13,942 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3692_08_08_2025\case_metadata.json
+2025-08-17 02:19:13,942 - INFO - Saved 1 processed cases
+2025-08-17 02:19:13,942 - INFO - Successfully processed case: CV-2025-08-3692
+2025-08-17 02:19:13,942 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3692_08_08_2025
+2025-08-17 02:19:15,948 - INFO - Processing case: CV-2025-08-3695
+2025-08-17 02:19:15,948 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3695_08_08_2025
+2025-08-17 02:19:15,948 - INFO - Getting details for case: CV-2025-08-3695
+2025-08-17 02:19:19,365 - INFO - Clicked on document tab
+2025-08-17 02:19:21,382 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3695_08_08_2025\case_details.json
+2025-08-17 02:19:21,384 - INFO - Downloading foreclosure complaint: vola0000004600002976
+2025-08-17 02:19:21,392 - INFO - Trying PDF URL: https://clerkweb.summitoh.net/PublicSite/Documents/vola0000004600002976.pdf
+2025-08-17 02:19:23,391 - INFO - PDF URL response: 200, Content-Type: application/pdf, Size: 510829
+2025-08-17 02:19:23,415 - INFO - Successfully downloaded PDF: vola0000004600002976_Foreclosure_Complaint.pdf (510829 bytes)
+2025-08-17 02:19:23,416 - INFO - Parsing PDF: Foreclosure_Cases_Data\CV-2025-08-3695_08_08_2025\vola0000004600002976_Foreclosure_Complaint.pdf
+2025-08-17 02:19:23,436 - ERROR - Error parsing PDF Foreclosure_Cases_Data\CV-2025-08-3695_08_08_2025\vola0000004600002976_Foreclosure_Complaint.pdf: Could not extract text from: Foreclosure_Cases_Data\CV-2025-08-3695_08_08_2025\vola0000004600002976_Foreclosure_Complaint.pdf
+2025-08-17 02:19:23,437 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3695_08_08_2025\case_metadata.json
+2025-08-17 02:19:23,437 - INFO - Saved 2 processed cases
+2025-08-17 02:19:23,437 - INFO - Successfully processed case: CV-2025-08-3695
+2025-08-17 02:19:23,437 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3695_08_08_2025
+2025-08-17 02:19:25,442 - INFO - Processing case: CV-2025-08-3697
+2025-08-17 02:19:25,443 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3697_08_08_2025
+2025-08-17 02:19:25,443 - INFO - Getting details for case: CV-2025-08-3697
+2025-08-17 02:19:28,854 - INFO - Clicked on document tab
+2025-08-17 02:19:30,868 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3697_08_08_2025\case_details.json
+2025-08-17 02:19:30,871 - INFO - Downloading foreclosure complaint: vola00000046000026F7
+2025-08-17 02:19:30,871 - INFO - Trying PDF URL: https://clerkweb.summitoh.net/PublicSite/Documents/vola00000046000026F7.pdf
+2025-08-17 02:19:31,945 - INFO - PDF URL response: 404, Content-Type: text/html, Size: 1245
+2025-08-17 02:19:31,945 - INFO - Trying DisplayImage URL: https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        000026F7
+2025-08-17 02:19:37,102 - INFO - DisplayImage response: 200, Content-Type: application/pdf, Size: 5768824
+2025-08-17 02:19:37,116 - INFO - Successfully downloaded PDF via DisplayImage: vola00000046000026F7_Foreclosure_Complaint.pdf (5768824 bytes)
+2025-08-17 02:19:37,117 - INFO - Parsing PDF: Foreclosure_Cases_Data\CV-2025-08-3697_08_08_2025\vola00000046000026F7_Foreclosure_Complaint.pdf
+2025-08-17 02:19:37,232 - INFO - Successfully parsed and saved PDF data: Foreclosure_Cases_Data\CV-2025-08-3697_08_08_2025\foreclosure_complaint_parsed.json
+2025-08-17 02:19:37,232 - INFO -   Plaintiff: None
+2025-08-17 02:19:37,232 - INFO -   Defendants: 0 found
+2025-08-17 02:19:37,232 - INFO -   Property Address: None
+2025-08-17 02:19:37,232 - INFO -   Redemption Price: $None
+2025-08-17 02:19:37,232 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3697_08_08_2025\case_metadata.json
+2025-08-17 02:19:37,232 - INFO - Saved 3 processed cases
+2025-08-17 02:19:37,232 - INFO - Successfully processed case: CV-2025-08-3697
+2025-08-17 02:19:37,232 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3697_08_08_2025
+2025-08-17 02:19:39,237 - INFO - Processing case: CV-2025-08-3698
+2025-08-17 02:19:39,237 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3698_08_08_2025
+2025-08-17 02:19:39,237 - INFO - Getting details for case: CV-2025-08-3698
+2025-08-17 02:19:42,635 - INFO - Clicked on document tab
+2025-08-17 02:19:44,657 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3698_08_08_2025\case_details.json
+2025-08-17 02:19:44,657 - INFO - Downloading foreclosure complaint: vola0000004600002717
+2025-08-17 02:19:44,662 - INFO - Trying PDF URL: https://clerkweb.summitoh.net/PublicSite/Documents/vola0000004600002717.pdf
+2025-08-17 02:19:45,724 - INFO - PDF URL response: 404, Content-Type: text/html, Size: 1245
+2025-08-17 02:19:45,724 - INFO - Trying DisplayImage URL: https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        00002717
+2025-08-17 02:19:47,636 - INFO - DisplayImage response: 200, Content-Type: application/pdf, Size: 217238
+2025-08-17 02:19:47,654 - INFO - Successfully downloaded PDF via DisplayImage: vola0000004600002717_Foreclosure_Complaint.pdf (217238 bytes)
+2025-08-17 02:19:47,654 - INFO - Parsing PDF: Foreclosure_Cases_Data\CV-2025-08-3698_08_08_2025\vola0000004600002717_Foreclosure_Complaint.pdf
+2025-08-17 02:19:47,972 - INFO - Successfully parsed and saved PDF data: Foreclosure_Cases_Data\CV-2025-08-3698_08_08_2025\foreclosure_complaint_parsed.json
+2025-08-17 02:19:47,972 - INFO -   Plaintiff: TONI MARIE TELL Akron, OH 44310 Plaintiff,
+2025-08-17 02:19:47,972 - INFO -   Defendants: 0 found
+2025-08-17 02:19:47,972 - INFO -   Property Address: 1195 Sawyer Ave, Akron, OH 44310
+2025-08-17 02:19:47,972 - INFO -   Redemption Price: $25000.0
+2025-08-17 02:19:47,982 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3698_08_08_2025\case_metadata.json
+2025-08-17 02:19:47,982 - INFO - Saved 4 processed cases
+2025-08-17 02:19:47,982 - INFO - Successfully processed case: CV-2025-08-3698
+2025-08-17 02:19:47,982 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3698_08_08_2025
+2025-08-17 02:19:49,985 - INFO - Processing case: CV-2025-08-3699
+2025-08-17 02:19:49,985 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3699_08_08_2025
+2025-08-17 02:19:49,985 - INFO - Getting details for case: CV-2025-08-3699
+2025-08-17 02:19:53,486 - INFO - Clicked on document tab
+2025-08-17 02:19:55,514 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3699_08_08_2025\case_details.json
+2025-08-17 02:19:55,514 - INFO - Downloading foreclosure complaint: vola0000004600002722
+2025-08-17 02:19:55,524 - INFO - Trying PDF URL: https://clerkweb.summitoh.net/PublicSite/Documents/vola0000004600002722.pdf
+2025-08-17 02:19:56,522 - INFO - PDF URL response: 404, Content-Type: text/html, Size: 1245
+2025-08-17 02:19:56,522 - INFO - Trying DisplayImage URL: https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        00002722
+2025-08-17 02:19:58,342 - INFO - DisplayImage response: 200, Content-Type: application/pdf, Size: 173922
+2025-08-17 02:19:58,357 - INFO - Successfully downloaded PDF via DisplayImage: vola0000004600002722_Foreclosure_Complaint.pdf (173922 bytes)
+2025-08-17 02:19:58,358 - INFO - Parsing PDF: Foreclosure_Cases_Data\CV-2025-08-3699_08_08_2025\vola0000004600002722_Foreclosure_Complaint.pdf
+2025-08-17 02:19:58,652 - INFO - Successfully parsed and saved PDF data: Foreclosure_Cases_Data\CV-2025-08-3699_08_08_2025\foreclosure_complaint_parsed.json
+2025-08-17 02:19:58,652 - INFO -   Plaintiff: None
+2025-08-17 02:19:58,652 - INFO -   Defendants: 1 found
+2025-08-17 02:19:58,652 - INFO -   Property Address: 3502 Francie Ave. NW Canton, OH 44718
+2025-08-17 02:19:58,652 - INFO -   Redemption Price: $None
+2025-08-17 02:19:58,652 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3699_08_08_2025\case_metadata.json
+2025-08-17 02:19:58,652 - INFO - Saved 5 processed cases
+2025-08-17 02:19:58,652 - INFO - Successfully processed case: CV-2025-08-3699
+2025-08-17 02:19:58,652 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3699_08_08_2025
+2025-08-17 02:20:00,660 - INFO - Processing case: CV-2025-08-3702
+2025-08-17 02:20:00,660 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3702_08_08_2025
+2025-08-17 02:20:00,661 - INFO - Getting details for case: CV-2025-08-3702
+2025-08-17 02:20:04,055 - INFO - Clicked on document tab
+2025-08-17 02:20:06,073 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3702_08_08_2025\case_details.json
+2025-08-17 02:20:06,073 - INFO - Downloading foreclosure complaint: vola00000046000028BC
+2025-08-17 02:20:06,082 - INFO - Trying PDF URL: https://clerkweb.summitoh.net/PublicSite/Documents/vola00000046000028BC.pdf
+2025-08-17 02:20:07,163 - INFO - PDF URL response: 404, Content-Type: text/html, Size: 1245
+2025-08-17 02:20:07,163 - INFO - Trying DisplayImage URL: https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        000028BC
+2025-08-17 02:20:09,072 - INFO - DisplayImage response: 200, Content-Type: application/pdf, Size: 153533
+2025-08-17 02:20:09,085 - INFO - Successfully downloaded PDF via DisplayImage: vola00000046000028BC_Foreclosure_Complaint.pdf (153533 bytes)
+2025-08-17 02:20:09,086 - INFO - Parsing PDF: Foreclosure_Cases_Data\CV-2025-08-3702_08_08_2025\vola00000046000028BC_Foreclosure_Complaint.pdf
+2025-08-17 02:20:09,183 - INFO - Successfully parsed and saved PDF data: Foreclosure_Cases_Data\CV-2025-08-3702_08_08_2025\foreclosure_complaint_parsed.json
+2025-08-17 02:20:09,183 - INFO -   Plaintiff: None
+2025-08-17 02:20:09,183 - INFO -   Defendants: 1 found
+2025-08-17 02:20:09,183 - INFO -   Property Address: None
+2025-08-17 02:20:09,183 - INFO -   Redemption Price: $25000.0
+2025-08-17 02:20:09,183 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3702_08_08_2025\case_metadata.json
+2025-08-17 02:20:09,183 - INFO - Saved 6 processed cases
+2025-08-17 02:20:09,188 - INFO - Successfully processed case: CV-2025-08-3702
+2025-08-17 02:20:09,188 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3702_08_08_2025
+2025-08-17 02:20:11,189 - INFO - Processing case: CV-2025-08-3705
+2025-08-17 02:20:11,190 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3705_08_08_2025
+2025-08-17 02:20:11,190 - INFO - Getting details for case: CV-2025-08-3705
+2025-08-17 02:20:14,602 - INFO - Clicked on document tab
+2025-08-17 02:20:16,623 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3705_08_08_2025\case_details.json
+2025-08-17 02:20:16,623 - INFO - Downloading foreclosure complaint: vola000000460000303D
+2025-08-17 02:20:16,632 - INFO - Trying PDF URL: https://clerkweb.summitoh.net/PublicSite/Documents/vola000000460000303D.pdf
+2025-08-17 02:20:17,682 - INFO - PDF URL response: 404, Content-Type: text/html, Size: 1245
+2025-08-17 02:20:17,682 - INFO - Trying DisplayImage URL: https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        0000303D
+2025-08-17 02:20:20,494 - INFO - DisplayImage response: 200, Content-Type: application/pdf, Size: 1469255
+2025-08-17 02:20:20,507 - INFO - Successfully downloaded PDF via DisplayImage: vola000000460000303D_Foreclosure_Complaint.pdf (1469255 bytes)
+2025-08-17 02:20:20,507 - INFO - Parsing PDF: Foreclosure_Cases_Data\CV-2025-08-3705_08_08_2025\vola000000460000303D_Foreclosure_Complaint.pdf
+2025-08-17 02:20:29,303 - INFO - Successfully parsed and saved PDF data: Foreclosure_Cases_Data\CV-2025-08-3705_08_08_2025\foreclosure_complaint_parsed.json
+2025-08-17 02:20:29,303 - INFO -   Plaintiff: CITY OF NORTON, OHIO, Norton, Ohio 44203 vs.
+2025-08-17 02:20:29,303 - INFO -   Defendants: 0 found
+2025-08-17 02:20:29,303 - INFO -   Property Address: 222 South Main Street Akron, OH 44308
+2025-08-17 02:20:29,303 - INFO -   Redemption Price: $None
+2025-08-17 02:20:29,303 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3705_08_08_2025\case_metadata.json
+2025-08-17 02:20:29,308 - INFO - Saved 7 processed cases
+2025-08-17 02:20:29,308 - INFO - Successfully processed case: CV-2025-08-3705
+2025-08-17 02:20:29,309 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3705_08_08_2025
+2025-08-17 02:20:31,310 - INFO - Processing case: CV-2025-08-3706
+2025-08-17 02:20:31,311 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3706_08_08_2025
+2025-08-17 02:20:31,311 - INFO - Getting details for case: CV-2025-08-3706
+2025-08-17 02:20:35,199 - INFO - Clicked on document tab
+2025-08-17 02:20:37,272 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3706_08_08_2025\case_details.json
+2025-08-17 02:20:37,272 - INFO - Downloading foreclosure complaint: vola000000460000306F
+2025-08-17 02:20:37,287 - INFO - Trying PDF URL: https://clerkweb.summitoh.net/PublicSite/Documents/vola000000460000306F.pdf
+2025-08-17 02:20:39,247 - INFO - PDF URL response: 200, Content-Type: application/pdf, Size: 319669
+2025-08-17 02:20:39,265 - INFO - Successfully downloaded PDF: vola000000460000306F_Foreclosure_Complaint.pdf (319669 bytes)
+2025-08-17 02:20:39,265 - INFO - Parsing PDF: Foreclosure_Cases_Data\CV-2025-08-3706_08_08_2025\vola000000460000306F_Foreclosure_Complaint.pdf
+2025-08-17 02:20:39,902 - INFO - Successfully parsed and saved PDF data: Foreclosure_Cases_Data\CV-2025-08-3706_08_08_2025\foreclosure_complaint_parsed.json
+2025-08-17 02:20:39,902 - INFO -   Plaintiff: None
+2025-08-17 02:20:39,902 - INFO -   Defendants: 0 found
+2025-08-17 02:20:39,902 - INFO -   Property Address: 200 East Market Street Akron, OH 44308
+2025-08-17 02:20:39,902 - INFO -   Redemption Price: $None
+2025-08-17 02:20:39,902 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3706_08_08_2025\case_metadata.json
+2025-08-17 02:20:39,902 - INFO - Saved 8 processed cases
+2025-08-17 02:20:39,902 - INFO - Successfully processed case: CV-2025-08-3706
+2025-08-17 02:20:39,902 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3706_08_08_2025
+2025-08-17 02:20:41,906 - INFO - Processing case: CV-2025-08-3707
+2025-08-17 02:20:41,906 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3707_08_08_2025
+2025-08-17 02:20:41,906 - INFO - Getting details for case: CV-2025-08-3707
+2025-08-17 02:20:45,440 - INFO - Clicked on document tab
+2025-08-17 02:20:47,465 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3707_08_08_2025\case_details.json
+2025-08-17 02:20:47,465 - INFO - Downloading foreclosure complaint: vola0000004600003084
+2025-08-17 02:20:47,472 - INFO - Trying PDF URL: https://clerkweb.summitoh.net/PublicSite/Documents/vola0000004600003084.pdf
+2025-08-17 02:20:49,522 - INFO - PDF URL response: 200, Content-Type: application/pdf, Size: 273134
+2025-08-17 02:20:49,552 - INFO - Successfully downloaded PDF: vola0000004600003084_Foreclosure_Complaint.pdf (273134 bytes)
+2025-08-17 02:20:49,553 - INFO - Parsing PDF: Foreclosure_Cases_Data\CV-2025-08-3707_08_08_2025\vola0000004600003084_Foreclosure_Complaint.pdf
+2025-08-17 02:20:50,118 - INFO - Successfully parsed and saved PDF data: Foreclosure_Cases_Data\CV-2025-08-3707_08_08_2025\foreclosure_complaint_parsed.json
+2025-08-17 02:20:50,118 - INFO -   Plaintiff: :
+2025-08-17 02:20:50,118 - INFO -   Defendants: 0 found
+2025-08-17 02:20:50,118 - INFO -   Property Address: 638 Inverlane Drive Sagamore Hills, OH 44067
+2025-08-17 02:20:50,118 - INFO -   Redemption Price: $100000.0
+2025-08-17 02:20:50,122 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3707_08_08_2025\case_metadata.json
+2025-08-17 02:20:50,122 - INFO - Saved 9 processed cases
+2025-08-17 02:20:50,123 - INFO - Successfully processed case: CV-2025-08-3707
+2025-08-17 02:20:50,123 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3707_08_08_2025
+2025-08-17 02:20:52,125 - INFO - Processing case: CV-2025-08-3709
+2025-08-17 02:20:52,125 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3709_08_08_2025
+2025-08-17 02:20:52,125 - INFO - Getting details for case: CV-2025-08-3709
+2025-08-17 02:20:55,577 - INFO - Clicked on document tab
+2025-08-17 02:20:57,592 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3709_08_08_2025\case_details.json
+2025-08-17 02:20:57,592 - INFO - Downloading foreclosure complaint: vola00000046000030A1
+2025-08-17 02:20:57,604 - INFO - Trying PDF URL: https://clerkweb.summitoh.net/PublicSite/Documents/vola00000046000030A1.pdf
+2025-08-17 02:20:58,589 - INFO - PDF URL response: 404, Content-Type: text/html, Size: 1245
+2025-08-17 02:20:58,592 - INFO - Trying DisplayImage URL: https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        000030A1
+2025-08-17 02:21:00,119 - INFO - DisplayImage response: 200, Content-Type: application/pdf, Size: 128723
+2025-08-17 02:21:00,133 - INFO - Successfully downloaded PDF via DisplayImage: vola00000046000030A1_Foreclosure_Complaint.pdf (128723 bytes)
+2025-08-17 02:21:00,133 - INFO - Parsing PDF: Foreclosure_Cases_Data\CV-2025-08-3709_08_08_2025\vola00000046000030A1_Foreclosure_Complaint.pdf
+2025-08-17 02:21:00,153 - INFO - Successfully parsed and saved PDF data: Foreclosure_Cases_Data\CV-2025-08-3709_08_08_2025\foreclosure_complaint_parsed.json
+2025-08-17 02:21:00,153 - INFO -   Plaintiff: None
+2025-08-17 02:21:00,153 - INFO -   Defendants: 0 found
+2025-08-17 02:21:00,153 - INFO -   Property Address: None
+2025-08-17 02:21:00,153 - INFO -   Redemption Price: $None
+2025-08-17 02:21:00,157 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3709_08_08_2025\case_metadata.json
+2025-08-17 02:21:00,157 - INFO - Saved 10 processed cases
+2025-08-17 02:21:00,157 - INFO - Successfully processed case: CV-2025-08-3709
+2025-08-17 02:21:00,157 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3709_08_08_2025
+2025-08-17 02:21:02,159 - INFO - Processing case: CV-2025-08-3711
+2025-08-17 02:21:02,159 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3711_08_08_2025
+2025-08-17 02:21:02,159 - INFO - Getting details for case: CV-2025-08-3711
+2025-08-17 02:21:05,592 - INFO - Clicked on document tab
+2025-08-17 02:21:07,608 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3711_08_08_2025\case_details.json
+2025-08-17 02:21:07,608 - INFO - Downloading foreclosure complaint: vola00000046000030BE
+2025-08-17 02:21:07,614 - INFO - Trying PDF URL: https://clerkweb.summitoh.net/PublicSite/Documents/vola00000046000030BE.pdf
+2025-08-17 02:21:08,599 - INFO - PDF URL response: 404, Content-Type: text/html, Size: 1245
+2025-08-17 02:21:08,599 - INFO - Trying DisplayImage URL: https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        000030BE
+2025-08-17 02:21:10,125 - INFO - DisplayImage response: 200, Content-Type: application/pdf, Size: 79197
+2025-08-17 02:21:10,149 - INFO - Successfully downloaded PDF via DisplayImage: vola00000046000030BE_Foreclosure_Complaint.pdf (79197 bytes)
+2025-08-17 02:21:10,149 - INFO - Parsing PDF: Foreclosure_Cases_Data\CV-2025-08-3711_08_08_2025\vola00000046000030BE_Foreclosure_Complaint.pdf
+2025-08-17 02:21:10,257 - INFO - Successfully parsed and saved PDF data: Foreclosure_Cases_Data\CV-2025-08-3711_08_08_2025\foreclosure_complaint_parsed.json
+2025-08-17 02:21:10,257 - INFO -   Plaintiff: None
+2025-08-17 02:21:10,257 - INFO -   Defendants: 0 found
+2025-08-17 02:21:10,257 - INFO -   Property Address: 186 Gould Ave Bedford, OH 44146
+2025-08-17 02:21:10,257 - INFO -   Redemption Price: $None
+2025-08-17 02:21:10,257 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3711_08_08_2025\case_metadata.json
+2025-08-17 02:21:10,260 - INFO - Saved 11 processed cases
+2025-08-17 02:21:10,260 - INFO - Successfully processed case: CV-2025-08-3711
+2025-08-17 02:21:10,262 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3711_08_08_2025
+2025-08-17 02:21:12,262 - INFO - Processing case: CV-2025-08-3712
+2025-08-17 02:21:12,262 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3712_08_08_2025
+2025-08-17 02:21:12,262 - INFO - Getting details for case: CV-2025-08-3712
+2025-08-17 02:21:15,696 - INFO - Clicked on document tab
+2025-08-17 02:21:17,712 - INFO - Saved case data: Foreclosure_Cases_Data\CV-2025-08-3712_08_08_2025\case_details.json
+2025-08-17 02:21:17,712 - INFO - Downloading foreclosure complaint: vola00000046000030CD
+2025-08-17 02:21:17,722 - INFO - Trying PDF URL: https://clerkweb.summitoh.net/PublicSite/Documents/vola00000046000030CD.pdf
+2025-08-17 02:21:18,697 - INFO - PDF URL response: 404, Content-Type: text/html, Size: 1245
+2025-08-17 02:21:18,700 - INFO - Trying DisplayImage URL: https://clerkweb.summitoh.net/PublicSite/DisplayImage.asp?gstrPDFOH=vola00000046        000030CD
+2025-08-17 02:21:22,413 - INFO - DisplayImage response: 200, Content-Type: application/pdf, Size: 5660360
+2025-08-17 02:21:22,427 - INFO - Successfully downloaded PDF via DisplayImage: vola00000046000030CD_Foreclosure_Complaint.pdf (5660360 bytes)
+2025-08-17 02:21:22,427 - INFO - Parsing PDF: Foreclosure_Cases_Data\CV-2025-08-3712_08_08_2025\vola00000046000030CD_Foreclosure_Complaint.pdf
+2025-08-17 02:23:18,352 - INFO - Successfully parsed and saved PDF data: Foreclosure_Cases_Data\CV-2025-08-3712_08_08_2025\foreclosure_complaint_parsed.json
+2025-08-17 02:23:18,352 - INFO -   Plaintiff: None
+2025-08-17 02:23:18,352 - INFO -   Defendants: 1 found
+2025-08-17 02:23:18,352 - INFO -   Property Address: 531 Vinita Ave Akron OH 44320
+2025-08-17 02:23:18,352 - INFO -   Redemption Price: $81232.16
+2025-08-17 02:23:18,356 - INFO - Saved case metadata: Foreclosure_Cases_Data\CV-2025-08-3712_08_08_2025\case_metadata.json
+2025-08-17 02:23:18,358 - INFO - Saved 12 processed cases
+2025-08-17 02:23:18,358 - INFO - Successfully processed case: CV-2025-08-3712
+2025-08-17 02:23:18,358 - INFO - Created folder: Foreclosure_Cases_Data\CV-2025-08-3712_08_08_2025
+2025-08-17 02:23:20,359 - INFO - Monitoring cycle complete:
+2025-08-17 02:23:20,359 - INFO -   Total cases found: 12
+2025-08-17 02:23:20,359 - INFO -   New cases: 12
+2025-08-17 02:23:20,359 - INFO -   Successfully processed: 12
+2025-08-17 02:23:20,359 - INFO -   PDFs downloaded: 12
+2025-08-17 02:23:20,359 - INFO -   PDFs parsed: 10
+2025-08-17 02:23:20,359 - INFO -   Failed cases: 0
+2025-08-17 02:23:20,359 - INFO - Waiting 0.5 hours before next check...
+2025-08-17 02:27:55,284 - INFO - Monitoring stopped by user
+2025-08-17 02:27:55,306 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/f69bb7ceece4bf3ba916a4206c9babe2
+2025-08-17 02:27:59,405 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027B09184CD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f69bb7ceece4bf3ba916a4206c9babe2
+2025-08-17 02:28:03,430 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027B09923DD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f69bb7ceece4bf3ba916a4206c9babe2
+2025-08-17 02:28:07,503 - INFO - Browser closed
+2025-08-17 02:28:07,503 - INFO - Foreclosure automation ended
